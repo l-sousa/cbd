@@ -1,0 +1,11 @@
+{
+    "prettier.useTabs": true,
+    "editor.defaultFormatter": "redhat.java",
+    "git.ignoreLimitWarning": true,
+    "editor.wordWrapColumn": 200,
+    "editor.formatOnSave": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

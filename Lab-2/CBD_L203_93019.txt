@@ -1,0 +1,13 @@
+// NMEC: 93019
+// Lucas Sousa
+#### ex 2.3
+
+mongoimport --db cbd --collection rest --drop --file /Users/botto/Desktop/CBD/Lab-2/populatePhones.js
+
+# Imprime a collection toda
+db.phones.find({}).pretty()
+
+# Imprime a quantidade de numeros (200k obv)
+db.phones.find({}).count()
+
+

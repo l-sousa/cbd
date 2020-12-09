@@ -1,0 +1,88 @@
+# Link do dataset : https://raw.githubusercontent.com/bagelbits/5e-database/main/src/5e-SRD-Monsters.json
+Dungeons & Dragons Monsters.json
+
+################################################ c)
+
+# Numero de monstros que são to tipo 'dragon'
+db.dng_dg.find({ "type" : "dragon"}).count()
+
+# Monstros que têm 5 actions 
+db.dng_dg.find({"actions" : {$size : 5} }, {_id:0, name:1, type:1, "actions.name": 1}).pretty()
+
+# Monstros que têm intelligence > 20 and wisdom > 20
+db.dng_dg.find({$and : [{ "intelligence" : {$gt : 20}}, {"wisdom" : {$gt : 20}}] }, {_id:0, name:1, type:1,"intelligence":1,"wisdom":1 }).pretty()
+
+# Monstros com 'Detect' nas legenday_actions
+db.dng_dg.find( 
+    {"legenday_actions.name" : "Detect"}
+).pretty()
+
+# Monstros cujo o tipo é fiend ou fey
+db.dng_dg.find(
+    {type: {
+        $in: ["fiend", "fey"]
+    }},
+    {_id:0, name:1, type:1}
+).pretty()
+
+# Monstros que tem damage resistances
+db.dng_dg.find(
+    {damage_resistances: {$ne: []}},
+    {_id:0, name:1, damage_resistances:1}
+).pretty()
+
+################################################ d)
+
+#Monstros que têm xp>=4000
+db.dng_dg.aggregate([
+    { $match: {"xp" : {$gte: 41000}} },
+    {$project : {_id:0, name:1, xp:1}}
+]).pretty()
+
+
+#monstros com 25<strength<30 ou dexterity>=25
+db.dng_dg.aggregate([
+     { $match: { $or: [ { strength: { $gt: 25, $lt:30 } }, { dexterity: { $gte: 25 } } ] } },
+    {$project : {_id:0, name:1, strength:1, dexterity:1}}
+]).pretty()
+
+# Tamanhos diferentes 
+db.dng_dg.aggregate([
+    {$group: {_id: "$size"}}
+]).pretty()
+
+#Numero de actions por nome
+db.dng_dg.aggregate([ 
+   {$project:{_id: 0 , name:1, numActions: 1, 'numActions' : {$size: "$actions" }}},
+]).pretty()
+
+# Mostrar o nome, size e type dos monstros
+db.dng_dg.aggregate([ 
+   {$project: {_id : 0, name:1, size:1, type:1}}
+]).pretty()
+
+#mostrar todos os tipos de monstros
+db.dng_dg.aggregate([ 
+   {$group:{ _id : 0, 'uniqueTypes' : {"$addToSet":"$type" }}}
+]).pretty()
+
+
+# Juntar por type e nome
+db.dng_dg.aggregate([ 
+    {$group: {_id : {type:"$type", name:"$name"}}}
+]).pretty()
+
+#Mostra todas as actions distinctas que existem
+db.dng_dg.aggregate([ 
+{$group:{ _id : 0, 'distinct_actions' : {"$addToSet":"$actions.name" }}}, 
+{$project:{ _id : 0, uniqueActions : {
+        $reduce : {
+          input : "$distinct_actions", 
+          initialValue :[], 
+          in : {$let : {
+            vars : {elem : { $concatArrays : ["$$this", "$$value"] }},
+            in : {$setUnion : "$$elem"}
+          }}
+        }
+      }
+    }} ]).pretty()

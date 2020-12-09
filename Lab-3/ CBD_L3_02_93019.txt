@@ -1,0 +1,119 @@
+José Lucas Sousa, 93019
+
+############################################################ a)
+base de dados - SPV
+############################################################################################################################### FALTA FAZER A CENA DO JSON PARA TODAS AS TABELAS
+1.
+users: username, name, email, selo temporal de registo na plataforma
+
+2. 
+videos: author, name, desc, 1 ou + tags, selo temporal de upload/partilha
+
+3.
+comments: selo temporal, author (user),
+
+4.
+followers: users que seguem um determinado videos
+por exemplo, notificar todos os users de um comment novo num video que eles follow
+
+5.
+eventos: play, pause, stop registados por vídeo e utilizador - incluindo o registo temporal do evento e o momento temporal em que ocorre no video
+Por exemplo, o utilizador XPTO fez play no vídeo YGZ às 2:35:54 do dia 2 de outubro de 2017, ao 300 segundo de tempo do vídeo
+
+6.
+rating de video: valor de 1-5, po rvideo, nao precisa registar user
+
+7.
+Pesquisa de videos por autor
+
+8.
+Pesquisa de comentarios por user, ordenado inverted pela data
+
+9.
+Pesquisa de comentarios por video, ordenado inverted pela data
+
+10.
+Pesquisa do avg rating de um video
+
+
+Precisamos destas tables:
+      user #armazena os users
+
+      vid #armazena os videos
+
+      comment # armazena os comments
+
+      video_comments # armazena as tags temporais dos comments num video 
+
+      following # armaznea os videos que os users seguem
+
+      event # armazena a operação efetuada e outras informações
+
+/***** IMPORTANTE *****/ 
+Ao longo do exercicio fui fazendo alterações ao que eu no inicio achava que deviam ser as tabelas
+As diferentes versões estão guardadas do numero 1 pra frente
+Se quiser ver a ultima versão das tabelas -> está no 'creates.txt' que tiver maior numero
+/**********************/
+
+# a-7)
+CRIAÇÃO DAS TABELAS ORIGINAIS NO FICHEIRO creates/creates1.txt
+Nesta alínea reparei que, para fazer sem o ALLOW FILTERING, tinha de separar a tabela dos videos por causa da PRIMARY KEY
+-> nova estrutura no ficheiro creates2.txt
+
+Também tive de alterar o script que gera os dados
+
+cqlsh:spv> SELECT * FROM video_author WHERE email = 'pamela_shewbridge1996@sapo.pt';
+
+ email                         | vid_id
+-------------------------------+--------------------------------------
+ pamela_shewbridge1996@sapo.pt | 65b0b510-3746-11eb-9230-23d9e3bf9773
+ pamela_shewbridge1996@sapo.pt | 65b289d0-3746-11eb-9230-23d9e3bf9773
+ pamela_shewbridge1996@sapo.pt | 65b34d20-3746-11eb-9230-23d9e3bf9773
+
+# a-8)
+cqlsh:spv> SELECT * FROM comment WHERE author = 'melvina_boers1967@portugalmail.pt' ALLOW FILTERING;
+
+ id                                   | comment_time                    | author                            | content                        | vid_id
+--------------------------------------+---------------------------------+-----------------------------------+--------------------------------+--------------------------------------
+ 4b40e020-394d-11eb-ba97-438430454acf | 2020-12-04 12:41:34.597000+0000 | melvina_boers1967@portugalmail.pt |   These boys are fine as hell  | 65b289d0-3746-11eb-9230-23d9e3bf9773
+ 4b3ff5c0-394d-11eb-ba97-438430454acf | 2020-12-19 19:39:18.377000+0000 | melvina_boers1967@portugalmail.pt | Worst at everything: Eric Dier | 65b32610-3746-11eb-9230-23d9e3bf9773
+ 4b417c60-394d-11eb-ba97-438430454acf | 2020-12-28 12:56:29.796000+0000 | melvina_boers1967@portugalmail.pt |     Get ASAP Rocky on the show | 65af5580-3746-11eb-9230-23d9e3bf9773
+
+ 
+# a-9)
+cqlsh:spv> SELECT * FROM comment WHERE vid_id = '65af5580-3746-11eb-9230-23d9e3bf9773' ALLOW FILTERING;
+
+ id                                   | comment_time                    | author                             | content                    | vid_id
+--------------------------------------+---------------------------------+------------------------------------+----------------------------+--------------------------------------
+ fdb0aac0-3951-11eb-ba97-438430454acf | 2020-12-08 18:42:45.341000+0000 | camellia_wrede1996@portugalmail.pt |             better than IT | 65af5580-3746-11eb-9230-23d9e3bf9773
+ fdaf2420-3951-11eb-ba97-438430454acf | 2020-12-28 12:56:29.796000+0000 |  melvina_boers1967@portugalmail.pt | Get ASAP Rocky on the show | 65af5580-3746-11eb-9230-23d9e3bf9773
+
+
+# a-10)
+cqlsh:spv> SELECT avg(value) as avg, count(value) as num_vezes FROM rating  WHERE vid_id = '65b08e00-3746-11eb-9230-23d9e3bf9773' ALLOW FILTERING;
+
+ avg | num_vezes
+-----+-----------
+   6 |         2
+
+
+################## d)
+
+# d-1)
+
+
+cqlsh:spv> SELECT * FROM comment WHERE vid_id = '65b289d0-3746-11eb-9230-23d9e3bf9773' LIMIT 3;
+
+ id                                   | comment_time                    | author                                 | content                     | vid_id
+--------------------------------------+---------------------------------+----------------------------------------+-----------------------------+--------------------------------------
+ 027e7f20-3955-11eb-ba97-438430454acf | 2020-12-20 20:46:23.714000+0000 |            darcie_deno1958@hotmail.com |             look at that XD | 65b289d0-3746-11eb-9230-23d9e3bf9773
+ 0280c910-3955-11eb-ba97-438430454acf | 2020-12-01 21:35:23.735000+0000 |  ellamae_cutwright2016@portugalmail.pt | i came to read the comments | 65b289d0-3746-11eb-9230-23d9e3bf9773
+ 027c3530-3955-11eb-ba97-438430454acf | 2020-12-18 20:42:24.897000+0000 | columbus_reinstein1961@portugalmail.pt |           Dont mind fuck me | 65b289d0-3746-11eb-9230-23d9e3bf9773
+
+# d-2)
+
+
+
+
+
+n dão: 9, 8, 6

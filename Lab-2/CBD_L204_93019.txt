@@ -1,0 +1,11 @@
+// NMEC: 93019
+// Lucas Sousa
+#### ex 2.3
+
+mongoimport --db cbd --collection rest --drop --file /Users/botto/Desktop/CBD/Lab-2/restaurants.json
+
+# Segui este tutorial 
+https://www.mongodb.com/blog/post/quick-start-java-and-mongodb--starting-and-setup?utm_campaign=javaquickstart&utm_source=twitter&utm_medium=organic_social
+
+
+    
