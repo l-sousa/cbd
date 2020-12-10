@@ -127,6 +127,21 @@ creiei a tabela video_tag
       Horror	65ae6b20-3746-11eb-9230-23d9e3bf9773
 
 
+# d-4)
+Tornei a PK da tabela event numa PK composta para poder fazer o 'and'
+
+      select * from event where vid_id = '65ae6b20-3746-11eb-9230-23d9e3bf9773' and user = 'bobby_kehm1987@gmail.com' limit 5;
+
+      vid_id	user	event	event_timestamp	id	video_timestamp
+      65ae6b20-3746-11eb-9230-23d9e3bf9773	bobby_kehm1987@gmail.com	fast-forward	2020-12-22T16:45:45.421+0000	6ae7b830-3a8e-11eb-8913-3122113a1ef2	2020-12-02T16:20:58.248+0000
+
+
+# d-5)
+
+adicionei o atributo comment_time a tabela video_author e adicionei à PK para poder fazer where com isso
+
+
+
 
 
 n dão: 9, 8, 6

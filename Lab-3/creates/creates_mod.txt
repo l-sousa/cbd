@@ -4,51 +4,83 @@ CREATE KEYSPACE spv
 WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3}; 
 use spv;
 
+CREATE TABLE comment (
+	id int,
+	comment_time timestamp,
+	author varchar,
+	content varchar,
+	vid_id varchar,
+	PRIMARY KEY (id,comment_time)
+)
+;
+
+CREATE TABLE comment_author (
+	author varchar,
+	comment_time timestamp,
+	comment_id int,
+	content varchar,
+	PRIMARY KEY (author,comment_time)
+) WITH CLUSTERING ORDER BY (comment_time desc)
+;
+
+CREATE TABLE comment_video (
+	vid_id varchar,
+	comment_time timestamp,
+	comment_id int,
+	content varchar,
+	PRIMARY KEY (vid_id,comment_time)
+) WITH CLUSTERING ORDER BY (comment_time desc)
+;
+
+CREATE TABLE event (
+	vid_id varchar,
+	user varchar,
+	event varchar,
+	event_timestamp timestamp,
+	id uuid,
+	video_timestamp timestamp,
+	PRIMARY KEY (user,vid_id)
+);
+CREATE TABLE following (
+	user varchar,
+	vid_id varchar,
+	PRIMARY KEY (user,vid_id)
+);
+CREATE TABLE rating (
+	vid_id varchar,
+	id uuid,
+	value int,
+	PRIMARY KEY (vid_id)
+);
+
 CREATE TABLE user (
-    username text,    
-    name text,   
-    email text,
-    regist_time timestamp, 
-    Primary Key(email)
+	email varchar,
+	name varchar,
+	regist_time timestamp,
+	username varchar,
+	PRIMARY KEY (email)
 );
 
 CREATE TABLE video (
-    author text,
-    id text, 
-    title text,
-    upload_time timestamp,
-    tag text,
-    Primary Key(id, upload_time)
-) 
-
-CREATE TABLE comment(
-    id uuid,
-    vid_id text,
-    author text,
-    content text,
-    comment_time timestamp,
-    PRIMARY KEY (id, comment_time) 
+	id varchar,
+	upload_time timestamp,
+	author varchar,
+	tag varchar,
+	title varchar,
+	PRIMARY KEY (id,upload_time)
 )
+;
 
-CREATE TABLE following(
-    user text,
-    vid_id text,
-    PRIMARY KEY ((user, vid_id))
-);
-                    
-CREATE TABLE event(
-    id uuid,
-    user text,
-    vid_id text,
-    event text,
-    event_timestamp timestamp,
-    video_timestamp timestamp,
-    PRIMARY KEY(id)
-);
+CREATE TABLE video_author (
+	email varchar,
+	vid_id varchar,
+	comment_time timestamp,
+	PRIMARY KEY (email,vid_id,comment_time)
+)
+;
 
-CREATE TABLE rating (
-    id uuid, 
-    value int, 
-    vid_id text,
-    PRIMARY KEY(id)
+CREATE TABLE video_tag (
+	tag varchar,
+	vid_id varchar,
+	PRIMARY KEY (tag)
 );
