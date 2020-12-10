@@ -6,16 +6,6 @@ def get_random_timestamp():
     date = "2020-12-" + str(random.randint(1,31)) + "T" + str(random.randint(10,23)) + ":" + str(random.randint(10,59)) + ":" + str(random.randint(10,59)) + "." + str(random.randint(100,999)) + "+0000"
     return date
 
-def deEmojify(text):
-    regrex_pattern = re.compile(pattern = "["
-        u"\U0001F600-\U0001F64F"  # emoticons
-        u"\U0001F300-\U0001F5FF"  # symbols & pictographs
-        u"\U0001F680-\U0001F6FF"  # transport & map symbols
-        u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
-                           "]+", flags = re.UNICODE)
-    return regrex_pattern.sub(r'',text)
-
-
 fnames = []
 lnames = []
 
@@ -70,42 +60,51 @@ for name in picked_names:
 with open("inserts.txt", "w") as out:
     #line = "INSERT INTO user () VALUES ('{}');\n".format()
 
-    #user
     for i in range(num):
+        #user
         line = "INSERT INTO user (username, name, email, regist_time) VALUES ('{}', '{}', '{}', '{}');".format(usernames[i], picked_names[i], emails[i], get_random_timestamp())
         out.write(line)
     
-
-    #video
-    for i in range(num):
+        #video
+        tag = random.choice(vid_tags)
         rand_email = random.choice(emails)
-        line = "INSERT INTO video (author, id, title, upload_time, tag) VALUES ('{}', '{}', '{}', '{}', '{}');".format(rand_email, vid_ids[i],  "title " + str(i), get_random_timestamp(), random.choice(vid_tags))
+        t = get_random_timestamp()
+        line = "INSERT INTO video (author, id, title, upload_time, tag) VALUES ('{}', '{}', '{}', '{}', '{}');".format(rand_email, vid_ids[i],  "title " + str(i), t, tag)
         out.write(line)
 
-        line = "INSERT INTO video_author (email, vid_id) VALUES ('{}', '{}');".format(rand_email, vid_ids[i])
+        #video_author
+        line = "INSERT INTO video_author (email, vid_id, comment_time) VALUES ('{}', '{}', '{}');".format(rand_email, vid_ids[i], t)
         out.write(line)
 
-    for i in range(num):
-        line = "INSERT INTO comment (id, vid_id, author, content, comment_time) VALUES (now(), '{}', '{}', '{}', '{}'); ".format(random.choice(vid_ids), random.choice(emails),random.choice(comments), get_random_timestamp())
+        #video_author
+        line = "INSERT INTO video_tag (tag, vid_id) VALUES ('{}', '{}');".format(tag, vid_ids[i])
         out.write(line)
-    
-    
-    for i in range(num):
+        
+        #comment
+        rand_id = random.choice(vid_ids)
+        rand_email = random.choice(emails)
+        ts= get_random_timestamp()
+        c = random.choice(comments)
+        line = "INSERT INTO comment (id, vid_id, author, content, comment_time) VALUES ({}, '{}', '{}', '{}', '{}'); ".format(i, rand_id, rand_email,c, ts)
+        out.write(line)
+
+        #comment author
+        line = "INSERT INTO comment_author (author, comment_id, comment_time, content) VALUES ('{}', {}, '{}', '{}');".format(rand_email, i, ts, c)
+        out.write(line)
+
+         #comment author
+        line = "INSERT INTO comment_video (vid_id, comment_id, comment_time, content) VALUES ('{}', {}, '{}', '{}');".format(rand_id, i, ts, c)
+        out.write(line)
+
+        #following
         line = "INSERT INTO following (user, vid_id) VALUES ('{}', '{}');".format(random.choice(emails), random.choice(vid_ids))    
         out.write(line)
     
-
-    for i in range(num):
-        line = "INSERT INTO event (id, user, vid_id, event, event_timestamp, video_timestamp) VALUES (now(), '{}', '{}', '{}', '{}', '{}');".format(random.choice(emails), random.choice(vid_ids),random.choice(
+        #event
+        line = "INSERT INTO event (id, user, vid_id, event, event_timestamp, video_timestamp) VALUES (now(), '{}', '{}', '{}', '{}', '{}');".format(random.choice(emails[:num//3]), random.choice(vid_ids),random.choice(
             ["play", "pause", "fast-forward", "fast-backward", "captions-on", "captions-off","change-resolution"]), get_random_timestamp(), get_random_timestamp())
         out.write(line)
-    
 
-    for i in range(num):
+        #rating
         line = "INSERT INTO rating (id, value, vid_id) VALUES (now(), {}, '{}');".format(random.randint(0,10), random.choice(vid_ids))    
         out.write(line)
-    
-
-
-for i in comments:
-    print(i)

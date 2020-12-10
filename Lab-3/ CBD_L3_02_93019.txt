@@ -51,67 +51,80 @@ Precisamos destas tables:
 
 /***** IMPORTANTE *****/ 
 Ao longo do exercicio fui fazendo alterações ao que eu no inicio achava que deviam ser as tabelas
-As diferentes versões estão guardadas do numero 1 pra frente
-Se quiser ver a ultima versão das tabelas -> está no 'creates.txt' que tiver maior numero
+A versão original é o creates.txt 
+A ultima versão é o creates_mod.txt
 /**********************/
 
 # a-7)
 CRIAÇÃO DAS TABELAS ORIGINAIS NO FICHEIRO creates/creates1.txt
 Nesta alínea reparei que, para fazer sem o ALLOW FILTERING, tinha de separar a tabela dos videos por causa da PRIMARY KEY
--> nova estrutura no ficheiro creates2.txt
+creiai a tabela video_author
 
-Também tive de alterar o script que gera os dados
+      select * from video_author where email = 'pamela_shewbridge1996@sapo.pt';
 
-cqlsh:spv> SELECT * FROM video_author WHERE email = 'pamela_shewbridge1996@sapo.pt';
+      pamela_shewbridge1996@sapo.pt | 65b0b510-3746-11eb-9230-23d9e3bf9773
+      pamela_shewbridge1996@sapo.pt | 65b289d0-3746-11eb-9230-23d9e3bf9773
+      pamela_shewbridge1996@sapo.pt | 65b34d20-3746-11eb-9230-23d9e3bf9773
 
- email                         | vid_id
--------------------------------+--------------------------------------
- pamela_shewbridge1996@sapo.pt | 65b0b510-3746-11eb-9230-23d9e3bf9773
- pamela_shewbridge1996@sapo.pt | 65b289d0-3746-11eb-9230-23d9e3bf9773
- pamela_shewbridge1996@sapo.pt | 65b34d20-3746-11eb-9230-23d9e3bf9773
 
 # a-8)
-cqlsh:spv> SELECT * FROM comment WHERE author = 'melvina_boers1967@portugalmail.pt' ALLOW FILTERING;
+Nesta alínea reparei que, para fazer sem o ALLOW FILTERING, tinha de separar a tabela dos comments por causa da PRIMARY KEY
+criei a tabela comment_author
 
- id                                   | comment_time                    | author                            | content                        | vid_id
---------------------------------------+---------------------------------+-----------------------------------+--------------------------------+--------------------------------------
- 4b40e020-394d-11eb-ba97-438430454acf | 2020-12-04 12:41:34.597000+0000 | melvina_boers1967@portugalmail.pt |   These boys are fine as hell  | 65b289d0-3746-11eb-9230-23d9e3bf9773
- 4b3ff5c0-394d-11eb-ba97-438430454acf | 2020-12-19 19:39:18.377000+0000 | melvina_boers1967@portugalmail.pt | Worst at everything: Eric Dier | 65b32610-3746-11eb-9230-23d9e3bf9773
- 4b417c60-394d-11eb-ba97-438430454acf | 2020-12-28 12:56:29.796000+0000 | melvina_boers1967@portugalmail.pt |     Get ASAP Rocky on the show | 65af5580-3746-11eb-9230-23d9e3bf9773
+      select * from comment_author where author = 'kari_plassmeyer1978@hotmail.comkari_plassmeyer1978@hotmail.com';
 
- 
+      author	comment_time	comment_id	content
+      kari_plassmeyer1978@hotmail.com	2020-12-25T17:47:45.578+0000	18	happy happy happy phil robertson
+      kari_plassmeyer1978@hotmail.com	2020-12-11T21:11:26.408+0000	12	Hi Laura very nice  need to try it
+      kari_plassmeyer1978@hotmail.com	2020-12-02T23:22:59.968+0000	6	I love bayley
+      kari_plassmeyer1978@hotmail.com	2020-12-02T11:29:19.264+0000	19	This is hilarious
+
 # a-9)
-cqlsh:spv> SELECT * FROM comment WHERE vid_id = '65af5580-3746-11eb-9230-23d9e3bf9773' ALLOW FILTERING;
+Nesta alínea reparei que, para fazer sem o ALLOW FILTERING, tinha de separar a tabela dos comments por causa da PRIMARY KEY
+criei a tabela vid_id
 
- id                                   | comment_time                    | author                             | content                    | vid_id
---------------------------------------+---------------------------------+------------------------------------+----------------------------+--------------------------------------
- fdb0aac0-3951-11eb-ba97-438430454acf | 2020-12-08 18:42:45.341000+0000 | camellia_wrede1996@portugalmail.pt |             better than IT | 65af5580-3746-11eb-9230-23d9e3bf9773
- fdaf2420-3951-11eb-ba97-438430454acf | 2020-12-28 12:56:29.796000+0000 |  melvina_boers1967@portugalmail.pt | Get ASAP Rocky on the show | 65af5580-3746-11eb-9230-23d9e3bf9773
+      select * from comment_video where vid_id = '65b08e00-3746-11eb-9230-23d9e3bf9773'
 
+      vid_id	comment_time	comment_id	content
+      65b08e00-3746-11eb-9230-23d9e3bf9773	2020-12-23T11:31:42.191+0000	0	Why so serious? Hes a comedian ffs
+      65b08e00-3746-11eb-9230-23d9e3bf9773	2020-12-12T19:12:45.877+0000	14	this looks great
+      65b08e00-3746-11eb-9230-23d9e3bf9773	2020-12-08T17:47:42.957+0000	23	<3 love you
 
 # a-10)
-cqlsh:spv> SELECT avg(value) as avg, count(value) as num_vezes FROM rating  WHERE vid_id = '65b08e00-3746-11eb-9230-23d9e3bf9773' ALLOW FILTERING;
+Nesta alínea reparei que, para fazer sem o ALLOW FILTERING, tinha de adicionar elementos à primary key para permitir o where
 
- avg | num_vezes
------+-----------
-   6 |         2
-
+      select avg(value) as avg, count(*) as num_vezes from rating  where vid_id = '65af5580-3746-11eb-9230-23d9e3bf9773'
+     
+      avg	num_vezes
+      1	3
 
 ################## d)
 
 # d-1)
+Não houe alterações
 
+      select * frmo comment_video where vid_id = '65b08e00-3746-11eb-9230-23d9e3bf9773' limit 3;
 
-cqlsh:spv> SELECT * FROM comment WHERE vid_id = '65b289d0-3746-11eb-9230-23d9e3bf9773' LIMIT 3;
-
- id                                   | comment_time                    | author                                 | content                     | vid_id
---------------------------------------+---------------------------------+----------------------------------------+-----------------------------+--------------------------------------
- 027e7f20-3955-11eb-ba97-438430454acf | 2020-12-20 20:46:23.714000+0000 |            darcie_deno1958@hotmail.com |             look at that XD | 65b289d0-3746-11eb-9230-23d9e3bf9773
- 0280c910-3955-11eb-ba97-438430454acf | 2020-12-01 21:35:23.735000+0000 |  ellamae_cutwright2016@portugalmail.pt | i came to read the comments | 65b289d0-3746-11eb-9230-23d9e3bf9773
- 027c3530-3955-11eb-ba97-438430454acf | 2020-12-18 20:42:24.897000+0000 | columbus_reinstein1961@portugalmail.pt |           Dont mind fuck me | 65b289d0-3746-11eb-9230-23d9e3bf9773
+      vid_id	comment_time	comment_id	content
+      65b08e00-3746-11eb-9230-23d9e3bf9773	2020-12-23T11:31:42.191+0000	0	Why so serious? Hes a comedian ffs
+      65b08e00-3746-11eb-9230-23d9e3bf9773	2020-12-12T19:12:45.877+0000	14	this looks great
+      65b08e00-3746-11eb-9230-23d9e3bf9773	2020-12-08T17:47:42.957+0000	23	<3 love you
 
 # d-2)
+Não houve alterações
+      select tag from video where id = '65b08e00-3746-11eb-9230-23d9e3bf9773';
+      
+      tag
+      Horror
 
+# d-3)
+Nesta alínea reparei que, para fazer sem o ALLOW FILTERING, tinha de separar a tabela de video outra vez
+creiei a tabela video_tag
+
+      select * from video_tag where tag = 'Horror';
+
+      tag	vid_id
+      Horror	65ae6b20-3746-11eb-9230-23d9e3bf9773
 
 
 

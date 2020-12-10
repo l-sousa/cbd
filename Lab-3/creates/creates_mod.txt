@@ -19,13 +19,7 @@ CREATE TABLE video (
     upload_time timestamp,
     tag text,
     Primary Key(id, upload_time)
-);
-
-CREATE TABLE video_author (
-    email text,
-    vid_id text, 
-    Primary Key(email, vid_id)
-);
+) 
 
 CREATE TABLE comment(
     id uuid,
@@ -34,7 +28,7 @@ CREATE TABLE comment(
     content text,
     comment_time timestamp,
     PRIMARY KEY (id, comment_time) 
-);
+)
 
 CREATE TABLE following(
     user text,
