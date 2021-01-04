@@ -1,0 +1,157 @@
+José Lucas Sousa, 93019
+
+a)
+############################################################ b)
+Segui os exemplos que estão nos slides da disciplina
+
+CREATE KEYSPACE Excelsior WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 3};
+USE excelsior ;
+
+
+CREATE TABLE postsbyuser (
+             ... userid bigint,
+             ... posttime timestamp,
+             ... postid uuid,
+             ... postcontent text,
+             ... PRIMARY KEY ((userid), posttime)
+             ... ) WITH CLUSTERING ORDER BY (posttime DESC); #cria a tabela
+
+DROP postsbyuser; #iria apagar a tabela
+
+TRUNCATE postsbyuser; #iria limpar a tabela sem a apagar 
+
+ALTER TABLE postsbyuser <command> #executava as alterações a tabela que estivessem no <command>
+
+
+>>>>>> CRUD
+SELECT [ JSON | DISTINCT ] (select_clause | '*' ) FROM table_name
+[ WHERE where_clause]
+[ GROUP BYgroup_by_clause]
+[ ORDER BY ordering_clause]
+[ PER PARTITION LIMIT (integer|bind_marker) ]
+[ LIMIT (integer|bind_marker ]
+[ ALLOW FILTERIN]
+
+SELECT
+columns or values to appear in the result
+
+FROM
+single table to be queried
+
+WHERE
+filtering conditions to be applied on table rows
+
+GROUP BY
+columns used for grouping of rows
+
+ORDER BY
+criteria defining the order of rows in the result
+
+LIMIT
+number of rows to be included in the result
+
+# semelhante a SQL
+Insert into KeyspaceName.TableName(ColumnName1, ColumnName2, ColumnName3 . . . .) values (Column1Value, Column2Value, Column3Value . . . .) 
+
+Update KeyspaceName.TableName 
+Set ColumnName1=new Column1Value,
+      ColumnName2=new Column2Value,
+      ColumnName3=new Column3Value,
+       .
+       .
+       .
+Where ColumnName=ColumnValue
+
+Delete from KeyspaceName.TableName
+	Where ColumnName1=ColumnValue
+
+There are several data structures which can store multiple values:
+      * list
+      * set 
+      * map
+
+List:
+      In a list the values are kept at insert order and stores multiple elements
+
+      Table field:
+            name_of_field list<type_of_elements>
+		
+      Insert:
+            INSERT INTO table_name(...) VALUES (..., [elem1, elem2, ....])
+
+      Update:
+            # preppend
+            UPDATE table_name SET field_name = [elem1, elem2, ....] + field_name
+
+            # append
+            UPDATE table_name SET field_name =  field_name + [elem1, elem2, ....]
+
+            # replace
+            UPDATE table_name SET field_name = [elem1, elem2, ....]
+
+Set:
+      In a set the elements are ordered by their hash value, so the insert order is not kept. There are also no repeated elements in a system.count
+
+      Table field:
+            name_of_field set<type_of_elements>
+		
+      Insert:
+            INSERT INTO table_name(...) VALUES (..., {elem1, elem2, ....})
+
+      Update:
+            # preppend
+            UPDATE table_name SET field_name = {elem1, elem2, ....} + field_name
+
+            # append
+            UPDATE table_name SET field_name =  field_name + {elem1, elem2, ....}
+
+            # replace
+            UPDATE table_name SET field_name = {elem1, elem2, ....}           
+
+Map:
+      In a map there are key-value pairs in which each value can be associated to it's key
+
+      Table field:
+            name_of_field map<type_of_key:type_of_value>
+		
+      Insert:
+            INSERT INTO table_name(...) VALUES (..., {key1:val1, key2:val2, ....})
+
+      Update:
+            # preppend
+            UPDATE table_name SET field_name = {key1:val1, key2:val2, ....} + field_name
+
+            # append
+            UPDATE table_name SET field_name =  field_name + {key1:val1, key2:val2, ....}
+
+            # replace
+            UPDATE table_name SET field_name = {key1:val1, key2:val2, ....} 
+
+Time to Live:
+      Defines how many seconds a column in cassandra will keep it's data. After the defined time all the data is deleted.
+
+      Current TTL after table definition:
+            SELECT TTL (col) from table_name WHERE condition
+
+      Update:
+            UPDATE table_name USING TTL val SET col = new_value WHERE condition
+
+Timestamp:
+      Holds date, time and timezone. provides a simple way to compare dates, etc...
+      	
+	Current Time:
+            toTimestamp(now())
+	Current Date:
+            toTimestamp(toDate(now())) 
+      
+      Table field:
+            name_of_field timestamp
+		
+      Insert:
+            INSERT INTO table_name(...) VALUES (..., timestamp_format_string)
+
+      Update:
+            UPDATE table_name SET field_name = timestamp_format_string
+
+      Comparators:
+            timestamp1 < | > | <= | >= | = timestamp2

@@ -1,0 +1,76 @@
+	DROP KEYSPACE movies;
+CREATE KEYSPACE movies WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3}; 
+use movies;
+
+CREATE TABLE users (
+	email text,
+	name text,
+	username text,
+	PRIMARY KEY (username)
+);
+
+CREATE TABLE movies_by_rating (
+    id int,
+    title text,
+    imdb double,
+    rt double,
+    time double,
+    finances map<text, double>,
+    directors list<text>,
+    producers set<text>,
+    PRIMARY KEY (id, imdb)
+)WITH CLUSTERING ORDER BY (imdb DESC);
+
+CREATE TABLE movie_reviews_by_timestamp (
+    id int,
+    content text,
+    time timestamp,
+    PRIMARY KEY (id, time)
+) WITH CLUSTERING ORDER BY (time DESC);
+
+CREATE TABLE movies_seen_by_user (
+    username text,
+    seen set<text>,
+    PRIMARY KEY (username)
+);
+
+CREATE TABLE user_reviews_by_movie (
+    vid_id int,
+    username text,
+    content text,
+    PRIMARY KEY ((vid_id, username))
+);
+
+CREATE TABLE reviews_by_movie (
+    movie_id int,
+    title text,
+    reviews list<text>,
+    PRIMARY KEY (movie_id)
+);
+
+CREATE TABLE movies_by_directors (
+    movie_id int,
+    title text,
+    directors list<text>,
+    PRIMARY KEY (movie_id)
+);
+
+CREATE TABLE movies_by_finances (
+    movie_id int,
+    title text,
+    finances map<text, double>,
+    PRIMARY KEY (movie_id)
+);
+
+CREATE TABLE movies_by_producers (
+    movie_id int,
+    title text,
+    producers set<text>,
+    PRIMARY KEY (movie_id)
+);
+
+
+CREATE INDEX imdb_index ON movies_by_rating (imdb);
+CREATE INDEX username_index ON user_reviews_by_movie (username);
+CREATE INDEX directors_index ON movies_by_directors (directors);
+CREATE INDEX producers_index ON movies_by_producers(producers);

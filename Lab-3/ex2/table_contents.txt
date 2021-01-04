@@ -1,0 +1,311 @@
+____________________________________ comment_video ____________________________________
+
+{"vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-28 15:47:38.464Z", "comment_id": 5, "content": "these videos are so dope better than tv"}
+{"vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-16 23:48:17.528Z", "comment_id": 4, "content": "Im new to yt"}
+{"vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-10 15:17:20.815Z", "comment_id": 23, "content": "_SEN LMEDMYDN AMK_"}
+{"vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-08 18:54:45.569Z", "comment_id": 7, "content": "now get aint no grave"}
+{"vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-08 15:43:28.248Z", "comment_id": 2, "content": "You crazy poppy"}
+{"vid_id": "65af7c90-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-29 20:57:23.640Z", "comment_id": 28, "content": "Why are you so fabulous "}
+{"vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-29 22:59:34.144Z", "comment_id": 27, "content": "are light is a moment love it"}
+{"vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-16 18:44:50.292Z", "comment_id": 20, "content": "3 on trending???"}
+{"vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-06 12:25:10.401Z", "comment_id": 21, "content": "Youre skin is so beautiful"}
+{"vid_id": "65af0760-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-26 13:44:40.408Z", "comment_id": 1, "content": "OYSTERS CLAMS AND COCKLES"}
+{"vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-04 18:36:17.981Z", "comment_id": 6, "content": "Im left handed too"}
+{"vid_id": "65afcab1-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-22 12:51:21.177Z", "comment_id": 11, "content": "when are yall going to have a baby?? :"}
+{"vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-12 12:21:16.378Z", "comment_id": 25, "content": "Bad bunny baby"}
+{"vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-19 10:17:12.334Z", "comment_id": 9, "content": "Gucci 25 on trending"}
+{"vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-16 23:31:49.113Z", "comment_id": 8, "content": "Quality finish by suarez"}
+{"vid_id": "65b15150-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-11 20:39:48.733Z", "comment_id": 19, "content": "This guy is a mug"}
+{"vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-28 21:43:33.614Z", "comment_id": 14, "content": "fifa 18 road to glory"}
+{"vid_id": "65b32610-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-31 23:37:44.602Z", "comment_id": 13, "content": "Oh my god yes"}
+{"vid_id": "65b32610-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-02 20:21:17.996Z", "comment_id": 17, "content": "Your music is inspiring"}
+{"vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-04 14:22:24.249Z", "comment_id": 22, "content": "Marshmallow fireside is my whole heart"}
+{"vid_id": "65af7c91-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-01 19:26:20.425Z", "comment_id": 29, "content": "What a great family"}
+{"vid_id": "65b12a40-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-11 18:51:15.624Z", "comment_id": 16, "content": "BuzzFeed is doing a lot of storytimes"}
+{"vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-29 22:38:39.618Z", "comment_id": 18, "content": "thats insane they gutted funding wow"}
+{"vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-16 12:44:16.729Z", "comment_id": 10, "content": "Now this is rap"}
+{"vid_id": "65b214a0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-05 14:31:56.277Z", "comment_id": 24, "content": "Ur amazing for sharing ur story"}
+{"vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-18 14:53:18.195Z", "comment_id": 3, "content": "Good one Tom "}
+{"vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-08 19:56:11.313Z", "comment_id": 26, "content": "You just did a face \\nReveal"}
+{"vid_id": "65b0b510-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-30 21:54:48.158Z", "comment_id": 12, "content": "Does anyone know the song?"}
+{"vid_id": "65b0b510-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-27 13:27:28.195Z", "comment_id": 15, "content": "i love this song"}
+{"vid_id": "65b34d20-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-01 14:40:52.696Z", "comment_id": 0, "content": "qtmba I agree with link on that"}
+
+____________________________________ video_author ____________________________________
+
+{"email": "gregorio_trampe1977@outlook.com", "vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-06 11:11:12.677Z"}
+{"email": "savannah_fiereck2010@hotmail.com", "vid_id": "65b2b0e0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-01 22:59:20.652Z"}
+{"email": "salley_berti1985@portugalmail.pt", "vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-06 17:41:14.713Z"}
+{"email": "salley_berti1985@portugalmail.pt", "vid_id": "65af7c90-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-02 16:47:33.764Z"}
+{"email": "salley_berti1985@portugalmail.pt", "vid_id": "65b0dc20-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-18 12:44:55.900Z"}
+{"email": "maryln_bonniwell1976@gmail.com", "vid_id": "65af0760-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-09 23:33:18.595Z"}
+{"email": "latashia_manne2009@gmail.com", "vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-22 22:31:58.728Z"}
+{"email": "latashia_manne2009@gmail.com", "vid_id": "65aff1c0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-25 13:38:56.275Z"}
+{"email": "katharine_dinglasan2006@portugalmail.pt", "vid_id": "65af7c91-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-08 22:38:26.560Z"}
+{"email": "lillia_tomsick1970@portugalmail.pt", "vid_id": "65b12a40-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-25 12:57:54.574Z"}
+{"email": "lillia_tomsick1970@portugalmail.pt", "vid_id": "65b34d20-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-29 22:58:20.701Z"}
+{"email": "aiko_philio1971@gmail.com", "vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-12 21:41:21.367Z"}
+{"email": "johnsie_wu2013@outlook.com", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-11 20:29:38.165Z"}
+{"email": "rosenda_pluck1961@portugalmail.pt", "vid_id": "65afcab0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-17 22:56:15.843Z"}
+{"email": "rosenda_pluck1961@portugalmail.pt", "vid_id": "65b17860-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-31 14:12:40.530Z"}
+{"email": "nia_evensen1975@gmail.com", "vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-25 15:36:41.540Z"}
+{"email": "marylou_butchko1998@sapo.pt", "vid_id": "65af2e70-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-06 17:27:57.608Z"}
+{"email": "marylou_butchko1998@sapo.pt", "vid_id": "65b15150-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-02 12:54:14.523Z"}
+{"email": "marylou_butchko1998@sapo.pt", "vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-27 22:38:36.115Z"}
+{"email": "dolly_tesoro1996@hotmail.com", "vid_id": "65afcab1-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-01 18:17:43.416Z"}
+{"email": "dolly_tesoro1996@hotmail.com", "vid_id": "65b0b510-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-21 19:30:18.102Z"}
+{"email": "rupert_clogston1986@hotmail.com", "vid_id": "65b018d0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-12 14:32:43.156Z"}
+{"email": "masako_roblez1950@sapo.pt", "vid_id": "65aee051-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-01 16:22:29.677Z"}
+{"email": "masako_roblez1950@sapo.pt", "vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-02 18:35:35.480Z"}
+{"email": "thad_fulwider2013@outlook.com", "vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-11 14:44:39.684Z"}
+{"email": "thad_fulwider2013@outlook.com", "vid_id": "65b289d0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-13 18:38:57.123Z"}
+{"email": "apolonia_megeath1961@gmail.com", "vid_id": "65b214a0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-19 13:19:37.345Z"}
+{"email": "teena_stilgenbauer2012@hotmail.com", "vid_id": "65b018d1-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-31 10:50:30.717Z"}
+{"email": "teena_stilgenbauer2012@hotmail.com", "vid_id": "65b23bb0-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-04 18:22:14.552Z"}
+{"email": "teena_stilgenbauer2012@hotmail.com", "vid_id": "65b32610-3746-11eb-9230-23d9e3bf9773", "comment_time": "2020-12-15 22:27:51.983Z"}
+
+____________________________________ comment_author ____________________________________
+
+{"author": "savannah_fiereck2010@hotmail.com", "comment_time": "2020-12-16 23:31:49.113Z", "comment_id": 8, "content": "Quality finish by suarez"}
+{"author": "savannah_fiereck2010@hotmail.com", "comment_time": "2020-12-11 20:39:48.733Z", "comment_id": 19, "content": "This guy is a mug"}
+{"author": "nicki_fittje1951@sapo.pt", "comment_time": "2020-12-29 20:57:23.640Z", "comment_id": 28, "content": "Why are you so fabulous "}
+{"author": "magan_hamberry1961@outlook.com", "comment_time": "2020-12-16 18:44:50.292Z", "comment_id": 20, "content": "3 on trending???"}
+{"author": "magan_hamberry1961@outlook.com", "comment_time": "2020-12-16 12:44:16.729Z", "comment_id": 10, "content": "Now this is rap"}
+{"author": "magan_hamberry1961@outlook.com", "comment_time": "2020-12-08 15:43:28.248Z", "comment_id": 2, "content": "You crazy poppy"}
+{"author": "shirlene_nall1995@sapo.pt", "comment_time": "2020-12-31 23:37:44.602Z", "comment_id": 13, "content": "Oh my god yes"}
+{"author": "evelyne_muller1977@sapo.pt", "comment_time": "2020-12-22 12:51:21.177Z", "comment_id": 11, "content": "when are yall going to have a baby?? :"}
+{"author": "salley_berti1985@portugalmail.pt", "comment_time": "2020-12-29 22:59:34.144Z", "comment_id": 27, "content": "are light is a moment love it"}
+{"author": "maryln_bonniwell1976@gmail.com", "comment_time": "2020-12-27 13:27:28.195Z", "comment_id": 15, "content": "i love this song"}
+{"author": "katharine_dinglasan2006@portugalmail.pt", "comment_time": "2020-12-05 14:31:56.277Z", "comment_id": 24, "content": "Ur amazing for sharing ur story"}
+{"author": "shona_oxenrider1997@hotmail.com", "comment_time": "2020-12-28 21:43:33.614Z", "comment_id": 14, "content": "fifa 18 road to glory"}
+{"author": "shona_oxenrider1997@hotmail.com", "comment_time": "2020-12-10 15:17:20.815Z", "comment_id": 23, "content": "_SEN LMEDMYDN AMK_"}
+{"author": "shona_oxenrider1997@hotmail.com", "comment_time": "2020-12-02 20:21:17.996Z", "comment_id": 17, "content": "Your music is inspiring"}
+{"author": "lillia_tomsick1970@portugalmail.pt", "comment_time": "2020-12-04 18:36:17.981Z", "comment_id": 6, "content": "Im left handed too"}
+{"author": "aiko_philio1971@gmail.com", "comment_time": "2020-12-08 19:56:11.313Z", "comment_id": 26, "content": "You just did a face \\nReveal"}
+{"author": "johnsie_wu2013@outlook.com", "comment_time": "2020-12-18 14:53:18.195Z", "comment_id": 3, "content": "Good one Tom "}
+{"author": "marylou_butchko1998@sapo.pt", "comment_time": "2020-12-08 18:54:45.569Z", "comment_id": 7, "content": "now get aint no grave"}
+{"author": "rosario_budde1998@hotmail.com", "comment_time": "2020-12-12 12:21:16.378Z", "comment_id": 25, "content": "Bad bunny baby"}
+{"author": "dolly_tesoro1996@hotmail.com", "comment_time": "2020-12-29 22:38:39.618Z", "comment_id": 18, "content": "thats insane they gutted funding wow"}
+{"author": "dolly_tesoro1996@hotmail.com", "comment_time": "2020-12-04 14:22:24.249Z", "comment_id": 22, "content": "Marshmallow fireside is my whole heart"}
+{"author": "della_merkle1970@gmail.com", "comment_time": "2020-12-01 19:26:20.425Z", "comment_id": 29, "content": "What a great family"}
+{"author": "thad_fulwider2013@outlook.com", "comment_time": "2020-12-30 21:54:48.158Z", "comment_id": 12, "content": "Does anyone know the song?"}
+{"author": "thad_fulwider2013@outlook.com", "comment_time": "2020-12-06 12:25:10.401Z", "comment_id": 21, "content": "Youre skin is so beautiful"}
+{"author": "thad_fulwider2013@outlook.com", "comment_time": "2020-12-01 14:40:52.696Z", "comment_id": 0, "content": "qtmba I agree with link on that"}
+{"author": "apolonia_megeath1961@gmail.com", "comment_time": "2020-12-16 23:48:17.528Z", "comment_id": 4, "content": "Im new to yt"}
+{"author": "teena_stilgenbauer2012@hotmail.com", "comment_time": "2020-12-28 15:47:38.464Z", "comment_id": 5, "content": "these videos are so dope better than tv"}
+{"author": "ines_kocaj2000@sapo.pt", "comment_time": "2020-12-19 10:17:12.334Z", "comment_id": 9, "content": "Gucci 25 on trending"}
+{"author": "arthur_morsey2015@outlook.com", "comment_time": "2020-12-26 13:44:40.408Z", "comment_id": 1, "content": "OYSTERS CLAMS AND COCKLES"}
+{"author": "arthur_morsey2015@outlook.com", "comment_time": "2020-12-11 18:51:15.624Z", "comment_id": 16, "content": "BuzzFeed is doing a lot of storytimes"}
+
+____________________________________ rating ____________________________________
+{"vid_id": "65b2b0e0-3746-11eb-9230-23d9e3bf9773", "user": "lorene_cipolone", "value": 0}
+{"vid_id": "65aee051-3746-11eb-9230-23d9e3bf9773", "user": "isidra_lapa", "value": 5}
+{"vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773", "user": "grover_cundy", "value": 1}
+{"vid_id": "65afcab1-3746-11eb-9230-23d9e3bf9773", "user": "christiana_nacion", "value": 6}
+{"vid_id": "65aff1c0-3746-11eb-9230-23d9e3bf9773", "user": "harold_ludgood", "value": 9}
+{"vid_id": "65b17860-3746-11eb-9230-23d9e3bf9773", "user": "christiana_nacion", "value": 4}
+{"vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773", "user": "shirlee_reyer", "value": 10}
+{"vid_id": "65b12a40-3746-11eb-9230-23d9e3bf9773", "user": "jarred_temby", "value": 0}
+{"vid_id": "65b23bb0-3746-11eb-9230-23d9e3bf9773", "user": "grover_cundy", "value": 9}
+{"vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773", "user": "camila_willia", "value": 0}
+{"vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "user": "arla_goodridge", "value": 7}
+{"vid_id": "65aee051-3746-11eb-9230-23d9e3bf9773", "user": "miss_rohl", "value": 9}
+{"vid_id": "65b289d0-3746-11eb-9230-23d9e3bf9773", "user": "dimple_darbonne", "value": 4}
+{"vid_id": "65af2e70-3746-11eb-9230-23d9e3bf9773", "user": "christiana_nacion", "value": 9}
+{"vid_id": "65aee051-3746-11eb-9230-23d9e3bf9773", "user": "rochell_erdner", "value": 2}
+{"vid_id": "65af2e70-3746-11eb-9230-23d9e3bf9773", "user": "racheal_sheerer", "value": 9}
+{"vid_id": "65af7c91-3746-11eb-9230-23d9e3bf9773", "user": "lamar_bridgewater", "value": 2}
+{"vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773", "user": "sabine_richart", "value": 2}
+{"vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773", "user": "isidra_lapa", "value": 1}
+{"vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773", "user": "camila_willia", "value": 7}
+{"vid_id": "65af2e70-3746-11eb-9230-23d9e3bf9773", "user": "mana_huskey", "value": 10}
+{"vid_id": "65b214a0-3746-11eb-9230-23d9e3bf9773", "user": "isidra_lapa", "value": 5}
+
+____________________________________ comment ____________________________________
+
+{"id": 23, "comment_time": "2020-12-10 15:17:20.815Z", "author": "shona_oxenrider1997@hotmail.com", "content": "_SEN LMEDMYDN AMK_", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773"}
+{"id": 5, "comment_time": "2020-12-28 15:47:38.464Z", "author": "teena_stilgenbauer2012@hotmail.com", "content": "these videos are so dope better than tv", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773"}
+{"id": 28, "comment_time": "2020-12-29 20:57:23.640Z", "author": "nicki_fittje1951@sapo.pt", "content": "Why are you so fabulous ", "vid_id": "65af7c90-3746-11eb-9230-23d9e3bf9773"}
+{"id": 10, "comment_time": "2020-12-16 12:44:16.729Z", "author": "magan_hamberry1961@outlook.com", "content": "Now this is rap", "vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773"}
+{"id": 16, "comment_time": "2020-12-11 18:51:15.624Z", "author": "arthur_morsey2015@outlook.com", "content": "BuzzFeed is doing a lot of storytimes", "vid_id": "65b12a40-3746-11eb-9230-23d9e3bf9773"}
+{"id": 13, "comment_time": "2020-12-31 23:37:44.602Z", "author": "shirlene_nall1995@sapo.pt", "content": "Oh my god yes", "vid_id": "65b32610-3746-11eb-9230-23d9e3bf9773"}
+{"id": 11, "comment_time": "2020-12-22 12:51:21.177Z", "author": "evelyne_muller1977@sapo.pt", "content": "when are yall going to have a baby?? :", "vid_id": "65afcab1-3746-11eb-9230-23d9e3bf9773"}
+{"id": 1, "comment_time": "2020-12-26 13:44:40.408Z", "author": "arthur_morsey2015@outlook.com", "content": "OYSTERS CLAMS AND COCKLES", "vid_id": "65af0760-3746-11eb-9230-23d9e3bf9773"}
+{"id": 19, "comment_time": "2020-12-11 20:39:48.733Z", "author": "savannah_fiereck2010@hotmail.com", "content": "This guy is a mug", "vid_id": "65b15150-3746-11eb-9230-23d9e3bf9773"}
+{"id": 8, "comment_time": "2020-12-16 23:31:49.113Z", "author": "savannah_fiereck2010@hotmail.com", "content": "Quality finish by suarez", "vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773"}
+{"id": 0, "comment_time": "2020-12-01 14:40:52.696Z", "author": "thad_fulwider2013@outlook.com", "content": "qtmba I agree with link on that", "vid_id": "65b34d20-3746-11eb-9230-23d9e3bf9773"}
+{"id": 2, "comment_time": "2020-12-08 15:43:28.248Z", "author": "magan_hamberry1961@outlook.com", "content": "You crazy poppy", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773"}
+{"id": 4, "comment_time": "2020-12-16 23:48:17.528Z", "author": "apolonia_megeath1961@gmail.com", "content": "Im new to yt", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773"}
+{"id": 18, "comment_time": "2020-12-29 22:38:39.618Z", "author": "dolly_tesoro1996@hotmail.com", "content": "thats insane they gutted funding wow", "vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773"}
+{"id": 15, "comment_time": "2020-12-27 13:27:28.195Z", "author": "maryln_bonniwell1976@gmail.com", "content": "i love this song", "vid_id": "65b0b510-3746-11eb-9230-23d9e3bf9773"}
+{"id": 22, "comment_time": "2020-12-04 14:22:24.249Z", "author": "dolly_tesoro1996@hotmail.com", "content": "Marshmallow fireside is my whole heart", "vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773"}
+{"id": 27, "comment_time": "2020-12-29 22:59:34.144Z", "author": "salley_berti1985@portugalmail.pt", "content": "are light is a moment love it", "vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773"}
+{"id": 20, "comment_time": "2020-12-16 18:44:50.292Z", "author": "magan_hamberry1961@outlook.com", "content": "3 on trending???", "vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773"}
+{"id": 7, "comment_time": "2020-12-08 18:54:45.569Z", "author": "marylou_butchko1998@sapo.pt", "content": "now get aint no grave", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773"}
+{"id": 6, "comment_time": "2020-12-04 18:36:17.981Z", "author": "lillia_tomsick1970@portugalmail.pt", "content": "Im left handed too", "vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773"}
+{"id": 29, "comment_time": "2020-12-01 19:26:20.425Z", "author": "della_merkle1970@gmail.com", "content": "What a great family", "vid_id": "65af7c91-3746-11eb-9230-23d9e3bf9773"}
+{"id": 9, "comment_time": "2020-12-19 10:17:12.334Z", "author": "ines_kocaj2000@sapo.pt", "content": "Gucci 25 on trending", "vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773"}
+{"id": 14, "comment_time": "2020-12-28 21:43:33.614Z", "author": "shona_oxenrider1997@hotmail.com", "content": "fifa 18 road to glory", "vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773"}
+{"id": 26, "comment_time": "2020-12-08 19:56:11.313Z", "author": "aiko_philio1971@gmail.com", "content": "You just did a face \\nReveal", "vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773"}
+{"id": 21, "comment_time": "2020-12-06 12:25:10.401Z", "author": "thad_fulwider2013@outlook.com", "content": "Youre skin is so beautiful", "vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773"}
+{"id": 17, "comment_time": "2020-12-02 20:21:17.996Z", "author": "shona_oxenrider1997@hotmail.com", "content": "Your music is inspiring", "vid_id": "65b32610-3746-11eb-9230-23d9e3bf9773"}
+{"id": 24, "comment_time": "2020-12-05 14:31:56.277Z", "author": "katharine_dinglasan2006@portugalmail.pt", "content": "Ur amazing for sharing ur story", "vid_id": "65b214a0-3746-11eb-9230-23d9e3bf9773"}
+{"id": 25, "comment_time": "2020-12-12 12:21:16.378Z", "author": "rosario_budde1998@hotmail.com", "content": "Bad bunny baby", "vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773"}
+{"id": 12, "comment_time": "2020-12-30 21:54:48.158Z", "author": "thad_fulwider2013@outlook.com", "content": "Does anyone know the song?", "vid_id": "65b0b510-3746-11eb-9230-23d9e3bf9773"}
+{"id": 3, "comment_time": "2020-12-18 14:53:18.195Z", "author": "johnsie_wu2013@outlook.com", "content": "Good one Tom ", "vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773"}
+
+____________________________________ event ____________________________________
+
+{"user": "savannah_fiereck2010@hotmail.com", "vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "event": "change-resolution", "event_timestamp": "2020-12-29 18:41:13.366Z", "id": "fb261430-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-06 22:43:32.107Z"}
+{"user": "savannah_fiereck2010@hotmail.com", "vid_id": "65af7c91-3746-11eb-9230-23d9e3bf9773", "event": "fast-backward", "event_timestamp": "2020-12-22 11:44:35.555Z", "id": "fb0daa30-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-15 12:19:22.635Z"}
+{"user": "savannah_fiereck2010@hotmail.com", "vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773", "event": "captions-on", "event_timestamp": "2020-12-18 20:45:36.626Z", "id": "fb134f80-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-10 12:38:39.334Z"}
+{"user": "savannah_fiereck2010@hotmail.com", "vid_id": "65b17860-3746-11eb-9230-23d9e3bf9773", "event": "fast-forward", "event_timestamp": "2020-12-18 20:22:46.963Z", "id": "fb33f6e0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-20 19:35:30.995Z"}
+{"user": "magan_hamberry1961@outlook.com", "vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773", "event": "captions-off", "event_timestamp": "2020-12-20 21:25:25.709Z", "id": "fb1f8480-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-09 13:54:13.241Z"}
+{"user": "magan_hamberry1961@outlook.com", "vid_id": "65af0760-3746-11eb-9230-23d9e3bf9773", "event": "captions-off", "event_timestamp": "2020-12-20 23:36:13.586Z", "id": "fb22b8d0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-24 22:48:18.667Z"}
+{"user": "shirlene_nall1995@sapo.pt", "vid_id": "65afcab0-3746-11eb-9230-23d9e3bf9773", "event": "pause", "event_timestamp": "2020-12-01 21:11:10.459Z", "id": "faf0ac50-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-23 14:35:39.698Z"}
+{"user": "shirlene_nall1995@sapo.pt", "vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773", "event": "pause", "event_timestamp": "2020-12-26 23:26:33.255Z", "id": "fb37c770-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-20 12:38:13.940Z"}
+{"user": "shirlene_nall1995@sapo.pt", "vid_id": "65b214a0-3746-11eb-9230-23d9e3bf9773", "event": "play", "event_timestamp": "2020-12-15 16:48:41.517Z", "id": "fafda4a0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-01 20:47:21.502Z"}
+{"user": "maryln_bonniwell1976@gmail.com", "vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "event": "pause", "event_timestamp": "2020-12-20 14:54:15.911Z", "id": "fb1635b0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-06 11:45:18.162Z"}
+{"user": "maryln_bonniwell1976@gmail.com", "vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773", "event": "change-resolution", "event_timestamp": "2020-12-21 14:11:25.819Z", "id": "fb010000-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-29 15:18:18.456Z"}
+{"user": "maryln_bonniwell1976@gmail.com", "vid_id": "65b0dc20-3746-11eb-9230-23d9e3bf9773", "event": "play", "event_timestamp": "2020-12-22 14:43:12.642Z", "id": "fb3e7e30-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-19 20:14:16.152Z"}
+{"user": "maryln_bonniwell1976@gmail.com", "vid_id": "65b15150-3746-11eb-9230-23d9e3bf9773", "event": "change-resolution", "event_timestamp": "2020-12-14 18:40:21.356Z", "id": "fb304d60-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-08 18:29:30.336Z"}
+{"user": "maryln_bonniwell1976@gmail.com", "vid_id": "65b289d0-3746-11eb-9230-23d9e3bf9773", "event": "change-resolution", "event_timestamp": "2020-12-07 14:15:49.701Z", "id": "faea43b0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-28 23:39:59.808Z"}
+{"user": "latashia_manne2009@gmail.com", "vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "event": "play", "event_timestamp": "2020-12-23 13:57:57.159Z", "id": "fb296f90-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-26 13:22:25.458Z"}
+{"user": "latashia_manne2009@gmail.com", "vid_id": "65aee051-3746-11eb-9230-23d9e3bf9773", "event": "pause", "event_timestamp": "2020-12-10 11:16:56.922Z", "id": "fb438740-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-22 15:28:20.711Z"}
+{"user": "latashia_manne2009@gmail.com", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "event": "fast-backward", "event_timestamp": "2020-12-05 14:22:21.354Z", "id": "fb477ee0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-25 16:27:20.608Z"}
+{"user": "latashia_manne2009@gmail.com", "vid_id": "65b0dc20-3746-11eb-9230-23d9e3bf9773", "event": "captions-on", "event_timestamp": "2020-12-25 12:54:41.848Z", "id": "fb109060-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-16 17:49:58.436Z"}
+{"user": "latashia_manne2009@gmail.com", "vid_id": "65b12a40-3746-11eb-9230-23d9e3bf9773", "event": "pause", "event_timestamp": "2020-12-26 13:34:28.444Z", "id": "fb0768a0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-20 12:50:14.698Z"}
+{"user": "katharine_dinglasan2006@portugalmail.pt", "vid_id": "65b0dc20-3746-11eb-9230-23d9e3bf9773", "event": "play", "event_timestamp": "2020-12-24 12:33:55.957Z", "id": "fafa7050-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-03 16:38:24.947Z"}
+{"user": "katharine_dinglasan2006@portugalmail.pt", "vid_id": "65b17860-3746-11eb-9230-23d9e3bf9773", "event": "change-resolution", "event_timestamp": "2020-12-02 17:50:26.707Z", "id": "faf73c00-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-25 13:15:12.908Z"}
+{"user": "aiko_philio1971@gmail.com", "vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773", "event": "captions-on", "event_timestamp": "2020-12-25 21:27:50.656Z", "id": "fb2ca3e0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-04 12:38:47.229Z"}
+{"user": "aiko_philio1971@gmail.com", "vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773", "event": "fast-backward", "event_timestamp": "2020-12-06 22:53:36.651Z", "id": "fb0a9cf0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-08 17:34:34.632Z"}
+{"user": "aiko_philio1971@gmail.com", "vid_id": "65b32610-3746-11eb-9230-23d9e3bf9773", "event": "captions-off", "event_timestamp": "2020-12-02 15:22:50.742Z", "id": "faecdbc0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-21 16:40:49.158Z"}
+{"user": "aiko_philio1971@gmail.com", "vid_id": "65b34d20-3746-11eb-9230-23d9e3bf9773", "event": "captions-off", "event_timestamp": "2020-12-09 17:23:35.420Z", "id": "fb3b22d0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-05 10:58:33.762Z"}
+{"user": "masako_roblez1950@sapo.pt", "vid_id": "65b018d0-3746-11eb-9230-23d9e3bf9773", "event": "fast-forward", "event_timestamp": "2020-12-18 12:37:48.373Z", "id": "fb4bc4a0-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-17 10:27:48.677Z"}
+{"user": "masako_roblez1950@sapo.pt", "vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773", "event": "fast-backward", "event_timestamp": "2020-12-28 10:43:38.902Z", "id": "fb196a00-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-05 16:58:11.402Z"}
+{"user": "masako_roblez1950@sapo.pt", "vid_id": "65b289d0-3746-11eb-9230-23d9e3bf9773", "event": "captions-off", "event_timestamp": "2020-12-02 16:33:33.756Z", "id": "fb1c5030-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-04 22:52:33.298Z"}
+{"user": "ines_kocaj2000@sapo.pt", "vid_id": "65afcab1-3746-11eb-9230-23d9e3bf9773", "event": "fast-backward", "event_timestamp": "2020-12-29 14:22:17.576Z", "id": "fb040d40-4837-11eb-9457-71f311dedbe4", "video_timestamp": "2020-12-17 20:31:38.960Z"}
+
+____________________________________ followers ____________________________________
+
+{"vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773", "followers": ["gregorio_trampe", "thad_fulwider", "rosario_budde", "salley_berti"], "title": "title 19"}
+{"vid_id": "65af7c90-3746-11eb-9230-23d9e3bf9773", "followers": ["katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe"], "title": "title 16"}
+{"vid_id": "65b17860-3746-11eb-9230-23d9e3bf9773", "followers": ["marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe", "thad_fulwider", "rosario_budde", "salley_berti"], "title": "title 0"}
+{"vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773", "followers": ["masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick"], "title": "title 25"}
+{"vid_id": "65aee051-3746-11eb-9230-23d9e3bf9773", "followers": ["evelyne_muller"], "title": "title 14"}
+{"vid_id": "65af0760-3746-11eb-9230-23d9e3bf9773", "followers": ["thad_fulwider"], "title": "title 12"}
+{"vid_id": "65aff1c0-3746-11eb-9230-23d9e3bf9773", "followers": ["shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe", "thad_fulwider", "rosario_budde"], "title": "title 4"}
+{"vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "followers": ["magan_hamberry", "maryln_bonniwell", "katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen"], "title": "title 23"}
+{"vid_id": "65afcab1-3746-11eb-9230-23d9e3bf9773", "followers": ["rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin"], "title": "title 1"}
+{"vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773", "followers": ["caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe", "thad_fulwider", "rosario_budde"], "title": "title 18"}
+{"vid_id": "65b2b0e0-3746-11eb-9230-23d9e3bf9773", "followers": ["conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe", "thad_fulwider"], "title": "title 21"}
+{"vid_id": "65b289d0-3746-11eb-9230-23d9e3bf9773", "followers": ["nicki_fittje", "dolly_tesoro"], "title": "title 3"}
+{"vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773", "followers": ["rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer"], "title": "title 10"}
+{"vid_id": "65b0dc20-3746-11eb-9230-23d9e3bf9773", "followers": ["nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe", "thad_fulwider", "rosario_budde", "salley_berti", "della_merkle"], "title": "title 9"}
+{"vid_id": "65b15150-3746-11eb-9230-23d9e3bf9773", "followers": ["savannah_fiereck", "magan_hamberry", "maryln_bonniwell", "katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne"], "title": "title 2"}
+{"vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773", "followers": ["magan_hamberry", "maryln_bonniwell", "katharine_dinglasan"], "title": "title 29"}
+{"vid_id": "65b32610-3746-11eb-9230-23d9e3bf9773", "followers": ["katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen"], "title": "title 13"}
+{"vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773", "followers": ["savannah_fiereck", "magan_hamberry", "maryln_bonniwell", "katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez"], "title": "title 20"}
+{"vid_id": "65af7c91-3746-11eb-9230-23d9e3bf9773", "followers": ["magan_hamberry", "maryln_bonniwell", "katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick"], "title": "title 11"}
+{"vid_id": "65b12a40-3746-11eb-9230-23d9e3bf9773", "followers": ["magan_hamberry", "maryln_bonniwell", "katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe"], "title": "title 7"}
+{"vid_id": "65b23bb0-3746-11eb-9230-23d9e3bf9773", "followers": ["shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey"], "title": "title 26"}
+{"vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773", "followers": ["sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner"], "title": "title 8"}
+{"vid_id": "65b214a0-3746-11eb-9230-23d9e3bf9773", "followers": ["maryln_bonniwell", "katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje"], "title": "title 24"}
+{"vid_id": "65af2e70-3746-11eb-9230-23d9e3bf9773", "followers": ["teena_stilgenbauer", "rosenda_pluck"], "title": "title 27"}
+{"vid_id": "65afcab0-3746-11eb-9230-23d9e3bf9773", "followers": ["marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer", "rosenda_pluck", "gregorio_trampe"], "title": "title 15"}
+{"vid_id": "65b018d1-3746-11eb-9230-23d9e3bf9773", "followers": ["nia_evensen", "shona_oxenrider"], "title": "title 22"}
+{"vid_id": "65b03fe0-3746-11eb-9230-23d9e3bf9773", "followers": ["nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer", "arthur_morsey", "johnsie_wu", "evelyne_muller", "teena_stilgenbauer"], "title": "title 5"}
+{"vid_id": "65b018d0-3746-11eb-9230-23d9e3bf9773", "followers": ["shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro"], "title": "title 17"}
+{"vid_id": "65b0b510-3746-11eb-9230-23d9e3bf9773", "followers": ["apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro"], "title": "title 28"}
+{"vid_id": "65b34d20-3746-11eb-9230-23d9e3bf9773", "followers": ["savannah_fiereck", "magan_hamberry", "maryln_bonniwell", "katharine_dinglasan", "marylou_butchko", "aiko_philio", "ines_kocaj", "masako_roblez", "latashia_manne", "shirlene_nall", "rupert_clogston", "nia_evensen", "shona_oxenrider", "apolonia_megeath", "sharda_mclavrin", "lillia_tomsick", "nicki_fittje", "dolly_tesoro", "caitlin_kushiner", "conception_schlotzhauer"], "title": "title 6"}
+
+____________________________________ user ____________________________________
+
+{"email": "gregorio_trampe1977@outlook.com", "name": "Gregorio Trampe", "regist_time": "2020-12-22 16:13:54.601Z", "username": "gregorio_trampe"}
+{"email": "savannah_fiereck2010@hotmail.com", "name": "Savannah Fiereck", "regist_time": "2020-12-19 10:12:13.828Z", "username": "savannah_fiereck"}
+{"email": "nicki_fittje1951@sapo.pt", "name": "Nicki Fittje", "regist_time": "2020-12-15 12:38:42.999Z", "username": "nicki_fittje"}
+{"email": "magan_hamberry1961@outlook.com", "name": "Magan Hamberry", "regist_time": "2020-12-05 20:26:32.341Z", "username": "magan_hamberry"}
+{"email": "shirlene_nall1995@sapo.pt", "name": "Shirlene Nall", "regist_time": "2020-12-24 16:47:45.516Z", "username": "shirlene_nall"}
+{"email": "evelyne_muller1977@sapo.pt", "name": "Evelyne Muller", "regist_time": "2020-12-07 20:39:31.306Z", "username": "evelyne_muller"}
+{"email": "salley_berti1985@portugalmail.pt", "name": "Salley Berti", "regist_time": "2020-12-08 18:13:51.296Z", "username": "salley_berti"}
+{"email": "maryln_bonniwell1976@gmail.com", "name": "Maryln Bonniwell", "regist_time": "2020-12-26 18:26:39.640Z", "username": "maryln_bonniwell"}
+{"email": "latashia_manne2009@gmail.com", "name": "Latashia Manne", "regist_time": "2020-12-25 22:58:12.377Z", "username": "latashia_manne"}
+{"email": "katharine_dinglasan2006@portugalmail.pt", "name": "Katharine Dinglasan", "regist_time": "2020-12-19 12:14:26.831Z", "username": "katharine_dinglasan"}
+{"email": "shona_oxenrider1997@hotmail.com", "name": "Shona Oxenrider", "regist_time": "2020-12-28 16:37:29.750Z", "username": "shona_oxenrider"}
+{"email": "lillia_tomsick1970@portugalmail.pt", "name": "Lillia Tomsick", "regist_time": "2020-12-20 18:31:19.265Z", "username": "lillia_tomsick"}
+{"email": "caitlin_kushiner2006@portugalmail.pt", "name": "Caitlin Kushiner", "regist_time": "2020-12-22 22:44:36.537Z", "username": "caitlin_kushiner"}
+{"email": "aiko_philio1971@gmail.com", "name": "Aiko Philio", "regist_time": "2020-12-25 18:32:59.812Z", "username": "aiko_philio"}
+{"email": "johnsie_wu2013@outlook.com", "name": "Johnsie Wu", "regist_time": "2020-12-21 13:53:46.535Z", "username": "johnsie_wu"}
+{"email": "conception_schlotzhauer1958@gmail.com", "name": "Conception Schlotzhauer", "regist_time": "2020-12-14 21:40:49.660Z", "username": "conception_schlotzhauer"}
+{"email": "rosenda_pluck1961@portugalmail.pt", "name": "Rosenda Pluck", "regist_time": "2020-12-10 21:13:26.698Z", "username": "rosenda_pluck"}
+{"email": "nia_evensen1975@gmail.com", "name": "Nia Evensen", "regist_time": "2020-12-12 12:50:44.701Z", "username": "nia_evensen"}
+{"email": "marylou_butchko1998@sapo.pt", "name": "Marylou Butchko", "regist_time": "2020-12-27 23:53:51.288Z", "username": "marylou_butchko"}
+{"email": "rosario_budde1998@hotmail.com", "name": "Rosario Budde", "regist_time": "2020-12-29 19:51:37.381Z", "username": "rosario_budde"}
+{"email": "dolly_tesoro1996@hotmail.com", "name": "Dolly Tesoro", "regist_time": "2020-12-03 16:28:46.232Z", "username": "dolly_tesoro"}
+{"email": "rupert_clogston1986@hotmail.com", "name": "Rupert Clogston", "regist_time": "2020-12-19 16:49:50.798Z", "username": "rupert_clogston"}
+{"email": "masako_roblez1950@sapo.pt", "name": "Masako Roblez", "regist_time": "2020-12-24 20:21:38.664Z", "username": "masako_roblez"}
+{"email": "sharda_mclavrin1986@gmail.com", "name": "Sharda Mclavrin", "regist_time": "2020-12-11 13:55:54.686Z", "username": "sharda_mclavrin"}
+{"email": "della_merkle1970@gmail.com", "name": "Della Merkle", "regist_time": "2020-12-11 11:50:44.301Z", "username": "della_merkle"}
+{"email": "thad_fulwider2013@outlook.com", "name": "Thad Fulwider", "regist_time": "2020-12-22 22:29:18.998Z", "username": "thad_fulwider"}
+{"email": "apolonia_megeath1961@gmail.com", "name": "Apolonia Megeath", "regist_time": "2020-12-20 20:57:38.860Z", "username": "apolonia_megeath"}
+{"email": "teena_stilgenbauer2012@hotmail.com", "name": "Teena Stilgenbauer", "regist_time": "2020-12-28 20:34:51.923Z", "username": "teena_stilgenbauer"}
+{"email": "ines_kocaj2000@sapo.pt", "name": "Ines Kocaj", "regist_time": "2020-12-02 20:27:47.124Z", "username": "ines_kocaj"}
+{"email": "arthur_morsey2015@outlook.com", "name": "Arthur Morsey", "regist_time": "2020-12-19 14:59:20.163Z", "username": "arthur_morsey"}
+
+____________________________________ video ____________________________________
+
+{"id": "65af5580-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-11 20:29:38.165Z", "author": "johnsie_wu2013@outlook.com", "tag": "Sports", "title": "title 19"}
+{"id": "65af7c90-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-02 16:47:33.764Z", "author": "salley_berti1985@portugalmail.pt", "tag": "Drama", "title": "title 16"}
+{"id": "65b17860-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-31 14:12:40.530Z", "author": "rosenda_pluck1961@portugalmail.pt", "tag": "Classics", "title": "title 0"}
+{"id": "65aee050-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-25 15:36:41.540Z", "author": "nia_evensen1975@gmail.com", "tag": "Gaming", "title": "title 25"}
+{"id": "65aee051-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-01 16:22:29.677Z", "author": "masako_roblez1950@sapo.pt", "tag": "Thriller", "title": "title 14"}
+{"id": "65af0760-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-09 23:33:18.595Z", "author": "maryln_bonniwell1976@gmail.com", "tag": "Nonprofits & Activis", "title": "title 12"}
+{"id": "65aff1c0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-25 13:38:56.275Z", "author": "latashia_manne2009@gmail.com", "tag": "Movies", "title": "title 4"}
+{"id": "65aeb940-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-22 22:31:58.728Z", "author": "latashia_manne2009@gmail.com", "tag": "Foreign", "title": "title 23"}
+{"id": "65afcab1-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-01 18:17:43.416Z", "author": "dolly_tesoro1996@hotmail.com", "tag": "Documentary", "title": "title 1"}
+{"id": "65b066f0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-12 21:41:21.367Z", "author": "aiko_philio1971@gmail.com", "tag": "Autos & Vehicles", "title": "title 18"}
+{"id": "65b2b0e0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-01 22:59:20.652Z", "author": "savannah_fiereck2010@hotmail.com", "tag": "Sci-Fi/Fantasy", "title": "title 21"}
+{"id": "65b289d0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-13 18:38:57.123Z", "author": "thad_fulwider2013@outlook.com", "tag": "Comedy", "title": "title 3"}
+{"id": "65b1ed90-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-27 22:38:36.115Z", "author": "marylou_butchko1998@sapo.pt", "tag": "Videoblogging", "title": "title 10"}
+{"id": "65b0dc20-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-18 12:44:55.900Z", "author": "salley_berti1985@portugalmail.pt", "tag": "Family", "title": "title 9"}
+{"id": "65b15150-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-02 12:54:14.523Z", "author": "marylou_butchko1998@sapo.pt", "tag": "Short Movies", "title": "title 2"}
+{"id": "65b08e00-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-11 14:44:39.684Z", "author": "thad_fulwider2013@outlook.com", "tag": "People & Blogs", "title": "title 29"}
+{"id": "65b32610-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-15 22:27:51.983Z", "author": "teena_stilgenbauer2012@hotmail.com", "tag": "Sports", "title": "title 13"}
+{"id": "65ae6b20-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-06 17:41:14.713Z", "author": "salley_berti1985@portugalmail.pt", "tag": "Howto & Style", "title": "title 20"}
+{"id": "65af7c91-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-08 22:38:26.560Z", "author": "katharine_dinglasan2006@portugalmail.pt", "tag": "Classics", "title": "title 11"}
+{"id": "65b12a40-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-25 12:57:54.574Z", "author": "lillia_tomsick1970@portugalmail.pt", "tag": "Documentary", "title": "title 7"}
+{"id": "65b23bb0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-04 18:22:14.552Z", "author": "teena_stilgenbauer2012@hotmail.com", "tag": "Short Movies", "title": "title 26"}
+{"id": "65ae9230-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-06 11:11:12.677Z", "author": "gregorio_trampe1977@outlook.com", "tag": "News & Politics", "title": "title 8"}
+{"id": "65b214a0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-19 13:19:37.345Z", "author": "apolonia_megeath1961@gmail.com", "tag": "Horror", "title": "title 24"}
+{"id": "65af2e70-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-06 17:27:57.608Z", "author": "marylou_butchko1998@sapo.pt", "tag": "Anime/Animation", "title": "title 27"}
+{"id": "65afcab0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-17 22:56:15.843Z", "author": "rosenda_pluck1961@portugalmail.pt", "tag": "Comedy", "title": "title 15"}
+{"id": "65b018d1-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-31 10:50:30.717Z", "author": "teena_stilgenbauer2012@hotmail.com", "tag": "Classics", "title": "title 22"}
+{"id": "65b03fe0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-02 18:35:35.480Z", "author": "masako_roblez1950@sapo.pt", "tag": "People & Blogs", "title": "title 5"}
+{"id": "65b018d0-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-12 14:32:43.156Z", "author": "rupert_clogston1986@hotmail.com", "tag": "Gaming", "title": "title 17"}
+{"id": "65b0b510-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-21 19:30:18.102Z", "author": "dolly_tesoro1996@hotmail.com", "tag": "Sci-Fi/Fantasy", "title": "title 28"}
+{"id": "65b34d20-3746-11eb-9230-23d9e3bf9773", "upload_time": "2020-12-29 22:58:20.701Z", "author": "lillia_tomsick1970@portugalmail.pt", "tag": "Gaming", "title": "title 6"}
+
+____________________________________ video_tag ____________________________________
+{"tag": "People & Blogs", "vid_id": "65b08e00-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Family", "vid_id": "65b0dc20-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Comedy", "vid_id": "65afcab0-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Gaming", "vid_id": "65aee050-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Nonprofits & Activis", "vid_id": "65af0760-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Howto & Style", "vid_id": "65ae6b20-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Sports", "vid_id": "65af5580-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Short Movies", "vid_id": "65b23bb0-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Classics", "vid_id": "65b018d1-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Horror", "vid_id": "65b214a0-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Foreign", "vid_id": "65aeb940-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Drama", "vid_id": "65af7c90-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Documentary", "vid_id": "65b12a40-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "News & Politics", "vid_id": "65ae9230-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Movies", "vid_id": "65aff1c0-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Sci-Fi/Fantasy", "vid_id": "65b0b510-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Autos & Vehicles", "vid_id": "65b066f0-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Thriller", "vid_id": "65aee051-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Videoblogging", "vid_id": "65b1ed90-3746-11eb-9230-23d9e3bf9773"}
+{"tag": "Anime/Animation", "vid_id": "65af2e70-3746-11eb-9230-23d9e3bf9773"}
+
+
+

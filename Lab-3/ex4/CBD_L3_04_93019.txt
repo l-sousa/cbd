@@ -1,0 +1,142 @@
+//____ex 3.4____//
+tabela de users
+tabela de filmes
+tabela de filmes já vistos por um user 
+tabela de reviews de um user nos videos
+tabela de reviews de um video
+
+//______________________________________________________________________QUERIES______________________________________________________________________//
+
+//____________ 1 ____________//
+filmes com rating imdb 74
+    select * from movies_by_rating where imdb = 74
+
+    id	imdb	directors	finances	producers	rt	time	title
+    2	74.0	[Alfred Werker, (live action), Hamilton Luske, (animation), Jack Cutting, ,, Ub Iwerks, ,, Jack Kinney, (sequence directors)]	{Box Office=960000.0, Budget=600000.0}	[Walt Disney]	6.9	67.0	The Reluctant Dragon
+    9	74.0	[Clyde Geronimi, Hamilton Luske, Wilfred Jackson]	{Box Office=2.6360000000000003E8, Budget=2900000.0}	[Walt Disney]	6.9	84.0	Cinderella
+
+//____________ 2 ____________//
+reviews dos filmes no dia '2020-12-25T12:26:47.985+0000' 
+    select * from movie_reviews_by_timestamp where time = '2020-12-25T12:26:47.985+0000' 
+
+    id	time	content
+    11	2020-12-25T12:26:47.985+0000	I think Samuel Goldwyn trying accomplish two things film. First film homage Jascha Heifetz, considered best violin virtuoso past century. Secondly brought screen Dead End kids film title seeing sign Warner Brothers, trying create second gang appealing urchins. Though film good certainly demand kids film reteamed another feature. Leader gang Gene Reynolds one time played violin, leads street gang disreputable urchins. His stepfather, Arthur Hohl, breaks violin late father gave young Reynolds threatens send reform school feeble protests mother Marjorie Main.Young Reynolds happens stumble onto music school run old music maestro himself, Walter Brennan daughter Andrea Leeds. They take in, financial problems lot creditors led Porter Hall.This film mostly seen today its chance classical music lovers see hear Jascha Heifetz gather solution one way another everybodys problems. Joel McCrea film also, rather colorless part Andrea Leeds boyfriend. Besides Heifetz, one thing film touch on, albeit gingerly topic child abuse battered spouses. Arthur Hohl one mean man Marjorie Main clearly much battered wife.The kids cast well, Reynolds, Tommy Kelly, Terry Kilburn young girl name Jacqueline Nash grew performed Gale Sherwood, nightclub partner Nelson Eddy. She nice soprano even child.But its Heifetz see show for.
+
+//____________ 3 ____________//
+filmes que o user katheryn_mcgrann já viu 
+    select * from movies_seen_by_user where username = 'jesus_voegele'
+
+    username	seen
+    jesus_voegele	[Alice in Wonderland, Bambi, Cinderella, Make Mine Music, Melody Time, Peter Pan, So Dear to My Heart, Song of the South, The Living Desert, The Sword and the Rose]
+
+//____________ 4 ____________//
+reviews de um user num video 
+    select * from user_reviews_by_movie where username = 'freda_held';
+
+    username	content	vid_id
+    freda_held	content alterado	4
+
+//____________ 5 ____________//
+número de reviews num video
+    Tive de criar uma function para caluclar o numero de reviews de cada filme (revies é um set)
+
+    CREATE OR REPLACE FUNCTION lsizeof(data set<text>) CALLED ON NULL INPUT RETURNS int LANGUAGE java AS 'return data.size();';
+    select lsizeof (reviews) as num_reviews, title from reviews_by_movie;
+
+    num_reviews	title
+    12	Make Mine Music
+    10	Alice in Wonderland
+    5	Peter Pan
+    5	Fantasia
+    2	So Dear to My Heart
+    3	Pinocchio
+    1	Melody Time
+    11	Song of the South
+    2	Cinderella
+    4	Dumbo
+
+//____________ 6 ____________//
+filmes que o 'Ben Sharpsteen' tenha produzido
+    select * from movies_by_producers where producers CONTAINS 'Ben Sharpsteen';
+    
+    movie_id	producers	title
+    1	[Ben Sharpsteen, WaltDisney]	Fantasia
+    
+//____________ 7 ____________//
+average rating (entre imdb e rotten tomatoes)
+    Function que calcula o rating medio entre o imdb e rotten tomatoes 
+    
+    CREATE OR REPLACE FUNCTION sum_rating(imdb double, rt double) CALLED ON NULL INPUT RETURNS double LANGUAGE java AS 'return (imdb + rt/10)/2;';
+    select title, sum_rating(imdb, rt) as avg_rating from movies_by_rating GROUP BY id;
+
+    title	avg_rating
+    Make Mine Music	6.9
+    Alice in Wonderland	6.95
+    Peter Pan	7.5
+    Fantasia	10.2
+    So Dear to My Heart	7.5
+    Pinocchio	8.100000000000001
+    The Reluctant Dragon	7.15
+    Bambi	7.15
+    Melody Time	6.95
+    Song of the South	8.25
+    Cinderella	7.15
+    Dumbo	6.800000000000001
+    
+//____________ 8 ____________//
+filmes que "Samuel Armstrong" tenha sido diretor
+    select * from movies_by_directors where directors CONTAINS 'Samuel Armstrong'
+
+    movie_id	directors	title
+    1	[Samuel Armstrong, James Algar, Bill Roberts, Paul Satterfield, Ben Sharpsteen, David D. Hand, Hamilton Luske, Jim Handley, Ford Beebe, T. Hee, Norman Ferguson, Wilfred Jackson]	Fantasia
+    4	[Supervising director, David Hand, Sequence directors, James Algar, Samuel Armstrong, Graham Heid, Bill Roberts, Paul Satterfield, Norman Wright]	Bambi
+    
+//____________ 9 ____________//
+mostrar o budget e o revenue do Peter Pan'
+    select title, finances from movies_by_finances where title='Peter Pan';    
+    title	finances
+    Peter Pan	{Box Office=8.74E7, Budget=4000000.0}
+
+//____________ 10 ____________//
+lucro dos filmes (revenue - budget) 
+
+    CREATE OR REPLACE FUNCTION revenue(finances map<text, double>) CALLED ON NULL INPUT RETURNS double LANGUAGE java AS 'return finances.get("Box Office") - finances.get("Budget");';
+
+    select title, finances, revenue(finances) from movies_by_finances
+
+    title	finances	movies.revenue(finances)
+    Make Mine Music	{Box Office=3275000.0, Budget=1350000.0}	1925000.0
+    Alice in Wonderland	{Box Office=5600000.0, Budget=3000000.0}	2600000.0
+    Peter Pan	{Box Office=8.74E7, Budget=4000000.0}	8.34E7
+    Fantasia	{Box Office=8.33E7, Budget=2280000.0}	8.102E7
+    So Dear to My Heart	{Box Office=3700000.0, Budget=1500000.0}	2200000.0
+    Pinocchio	{Box Office=1.64E8, Budget=2600000.0}	1.614E8
+    The Reluctant Dragon	{Box Office=960000.0, Budget=600000.0}	360000.0
+    Bambi	{Box Office=2.6739999999999997E8, Budget=858000.0}	2.6654199999999997E8
+    Melody Time	{Box Office=2560000.0, Budget=1500000.0}	1060000.0
+    Song of the South	{Box Office=6.5E7, Budget=2125000.0}	6.2875E7
+    Cinderella	{Box Office=2.6360000000000003E8, Budget=2900000.0}	2.6070000000000003E8
+
+
+//______________________________________________________________________UPDATES______________________________________________________________________//
+append à lista de directors do movie com id=0
+    UPDATE movies_by_directors SET directors = ['Lucas Sousa'] + directors where movie_id = 0;
+
+sibstituir o set de producers do movie com id=0
+    UPDATE movies_by_producers SET producers = ['Lucas Sousa'] where movie_id = 0;
+
+adionar uma key:value ao mapa de finances
+    UPDATE movies_by_finances SET finances = finances + {'Revenue': 1000000} where movie_id = 0;
+
+editar o comentario do user 'freda_held' no video com id = 4
+    UPDATE user_reviews_by_movie SET content = 'content alterado' where username = 'freda_held' and vid_id=4;
+
+alterar o primeiro comentario do video com id = 0
+    UPDATE reviews_by_movie SET reviews[0] = 'comentario alterado' where movie_id = 0;
+
+//______________________________________________________________________DELETES______________________________________________________________________//
+    DELETE FROM movies_by_rating WHERE id in (0,1,2,3);
+    DELETE reviews[0] FROM reviews_by_movie WHERE movie_id = 10;
+    DELETE FROM movies_by_directors WHERE directors CONTAINS 'Samuel Armstrong' and movie_id = 1
+    DELETE FROM movies_by_rating WHERE imdb < 7 and id in (1,2,3,4,5)
+    DELETE FROM users WHERE username in ('rayna_kimberley', 'rebbeca_weske','summer_bieniek')

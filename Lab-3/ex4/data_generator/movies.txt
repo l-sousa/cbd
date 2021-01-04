@@ -1,0 +1,253 @@
+Pinocchio$%&88$%&7.4$%&100.0$%&2600000.0$%&                164000000.0$%&['Ben Sharpsteen', 'Hamilton Luske', 'Bill Roberts', 'Norman Ferguson', 'Jack Kinney', 'Wilfred Jackson', 'T. Hee']$%&Walt Disney
+Fantasia$%&126$%&7.8$%&95.0$%&2280000.0$%&                83300000.0$%&['Samuel Armstrong', 'James Algar', 'Bill Roberts', 'Paul Satterfield', 'Ben Sharpsteen', 'David D. Hand', 'Hamilton Luske', 'Jim Handley', 'Ford Beebe', 'T. Hee', 'Norman Ferguson', 'Wilfred Jackson']$%&['Walt Disney', 'Ben Sharpsteen']
+The Reluctant Dragon$%&74$%&6.9$%&67.0$%&600000.0$%&                960000.0$%&['Alfred Werker', '(live action)', 'Hamilton Luske', '(animation)', 'Jack Cutting', ',', 'Ub Iwerks', ',', 'Jack Kinney', '(sequence directors)']$%&Walt Disney
+Dumbo$%&64$%&7.2$%&98.0$%&950000.0$%&                1300000.0$%&['Supervising director:', 'Ben Sharpsteen', 'Sequence directors:', 'Norman Ferguson', 'Wilfred Jackson', 'Bill Roberts', 'Jack Kinney', 'Samuel Armstrong']$%&Walt Disney
+Bambi$%&70$%&7.3$%&90.0$%&858000.0$%&                267399999.99999997$%&['Supervising director', 'David Hand', 'Sequence directors', 'James Algar', 'Samuel Armstrong', 'Graham Heid', 'Bill Roberts', 'Paul Satterfield', 'Norman Wright']$%&Walt Disney
+Make Mine Music$%&75$%&6.3$%&70.0$%&1350000.0$%&                3275000.0$%&['Jack Kinney', 'Clyde Geronimi', 'Hamilton Luske', 'Joshua Meador', 'Robert Cormack']$%&Walt Disney
+Song of the South$%&94$%&7.1$%&50.0$%&2125000.0$%&                65000000.0$%&['Live action:', 'Harve Foster', 'Animation:', 'Wilfred Jackson']$%&Walt Disney
+Melody Time$%&75$%&6.4$%&80.0$%&1500000.0$%&                2560000.0$%&['Jack Kinney', 'Clyde Geronimi', 'Hamilton Luske', 'Wilfred Jackson']$%&Walt Disney
+So Dear to My Heart$%&82$%&6.8$%&53.0$%&1500000.0$%&                3700000.0$%&['Harold D. Schuster', 'Hamilton Luske']$%&['Walt Disney', 'Perce Pearce']
+Cinderella$%&74$%&6.9$%&84.0$%&2900000.0$%&                263600000.00000003$%&['Clyde Geronimi', 'Hamilton Luske', 'Wilfred Jackson']$%&Walt Disney
+Alice in Wonderland$%&75$%&6.4$%&51.0$%&3000000.0$%&                5600000.0$%&['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']$%&Walt Disney
+Peter Pan$%&77$%&7.3$%&81.0$%&4000000.0$%&                87400000.0$%&['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']$%&Walt Disney
+The Sword and the Rose$%&92$%&6.4$%&35.0$%&2000000.0$%&                1000000.0$%&Ken Annakin$%&['Perce Pearce', 'Walt Disney']
+The Living Desert$%&69$%&7.5$%&74.0$%&300000.0$%&                2600000.0$%&James Algar$%&['Ben Sharpsteen', 'Walt Disney']
+Rob Roy, the Highland Rogue$%&81$%&6.3$%&36.0$%&1800000.0$%&                None$%&Harold French$%&['Perce Pearce', 'Walt Disney']
+20,000 Leagues Under the Sea$%&127$%&7.2$%&89.0$%&5000000.0$%&                28200000.0$%&Richard Fleischer$%&Walt Disney
+Lady and the Tramp$%&76$%&7.3$%&93.0$%&4000000.0$%&                187000000.0$%&['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']$%&Walt Disney
+Johnny Tremain$%&80$%&6.5$%&49.0$%&700000.0$%&                None$%&Robert Stevenson$%&Walt Disney
+Sleeping Beauty$%&75$%&7.2$%&89.0$%&6000000.0$%&                51600000.0$%&['Clyde Geronimi (supervising)', 'Eric Larson', 'Wolfgang Reitherman', 'Les Clark']$%&Walt Disney
+The Shaggy Dog$%&104$%&4.4$%&26.0$%&1000000.0$%&                12300000.0$%&Charles Barton$%&['Walt Disney', 'Bill Walsh']
+Third Man on the Mountain$%&105$%&7.2$%&76.0$%&2000000.0$%&                1700000.0$%&Ken Annakin$%&['Bill Anderson', 'Walt Disney']
+Pollyanna$%&134$%&7.4$%&86.0$%&2500000.0$%&                3750000.0$%&David Swift$%&['David Swift', 'Walt Disney', 'Associate Producer:', 'George Golitzen']
+Swiss Family Robinson$%&126$%&7.2$%&82.0$%&4000000.0$%&                40000000.0$%&['John McKimson', 'Ken Annakin']$%&['Bill Anderson', 'Basil Keys', 'Walt Disney']
+One Hundred and One Dalmatians$%&79$%&7.2$%&98.0$%&3600000.0$%&                303000000.0$%&['Clyde Geronimi', 'Hamilton Luske', 'Wolfgang Reitherman']$%&Walt Disney
+Babes in Toyland$%&105$%&6.3$%&36.0$%&3000000.0$%&                4600000.0$%&Jack Donohue$%&Walt Disney
+Bon Voyage!$%&130$%&5.8$%&36.0$%&3000000.0$%&                5000000.0$%&James Neilson$%&Walt Disney
+The Sword in the Stone$%&79$%&7.2$%&66.0$%&3000000.0$%&                22200000.0$%&Wolfgang Reitherman$%&Walt Disney
+Mary Poppins$%&139$%&7.8$%&100.0$%&4400000.0$%&                103100000.0$%&Robert Stevenson$%&Walt Disney
+The Jungle Book$%&78$%&7.4$%&94.0$%&4000000.0$%&                378000000.0$%&Wolfgang Reitherman$%&Walt Disney
+The Happiest Millionaire$%&164$%&6.8$%&50.0$%&5000000.0$%&                5000000.0$%&Norman Tokar$%&['Walt Disney', 'Bill Anderson']
+The Love Bug$%&108$%&6.5$%&76.0$%&5000000.0$%&                51264000.0$%&Robert Stevenson$%&Bill Walsh
+The Aristocats$%&79$%&7.1$%&64.0$%&4000000.0$%&                191000000.0$%&Wolfgang Reitherman$%&['Winston Hibler', 'Wolfgang Reitherman']
+Bedknobs and Broomsticks$%&118$%&7.1$%&66.0$%&6300000.0$%&                17900000.0$%&Robert Stevenson$%&Bill Walsh
+Robin Hood$%&83$%&6.6$%&43.0$%&5000000.0$%&                32000000.0$%&Wolfgang Reitherman$%&Wolfgang Reitherman
+The Island at the Top of the World$%&93$%&6.3$%&43.0$%&8000000.0$%&                10000000.0$%&Robert Stevenson$%&Winston Hibler
+Freaky Friday$%&95$%&6.2$%&88.0$%&5000000.0$%&                36000000.0$%&Gary Nelson$%&Ron Miller
+The Rescuers$%&77$%&6.9$%&81.0$%&7500000.0$%&                169000000.0$%&['Wolfgang Reitherman', 'John Lounsbery', 'Art Stevens']$%&['Wolfgang Reitherman', 'Ron W. Miller']
+Pete's Dragon$%&128$%&6.7$%&88.0$%&10000000.0$%&                36.0$%&Don Chaffey$%&['Jerome Courtland', 'Ron W. Miller']
+The Cat from Outer Space$%&104$%&6.1$%&67.0$%&3500000.0$%&                None$%&Norman Tokar$%&Ron Miller
+Unidentified Flying Oddball$%&93$%&5.3$%&33.0$%&5250000.0$%&                None$%&Russ Mayberry$%&Ron Miller
+The Black Hole$%&98$%&6.0$%&38.0$%&20000000.0$%&                35800000.0$%&Gary Nelson$%&Ron Miller
+The Watcher in the Woods$%&84$%&6.3$%&50.0$%&9000000.0$%&                5000000.0$%&['John Hough', 'Vincent McEveety (uncredited)']$%&Ron Miller
+The Last Flight of Noah's Ark$%&97$%&5.8$%&40.0$%&6000000.0$%&                11000000.0$%&Charles Jarrott$%&['Ron Miller', 'Jan Williams']
+Popeye$%&114$%&5.3$%&59.0$%&20000000.0$%&                60000000.0$%&Robert Altman$%&Robert Evans
+Dragonslayer$%&109$%&6.7$%&84.0$%&18000000.0$%&                14100000.0$%&Matthew Robbins$%&['Hal Barwood', 'Howard W. Koch']
+The Fox and the Hound$%&83$%&7.3$%&70.0$%&12000000.0$%&                63500000.0$%&['Ted Berman', 'Richard Rich', 'Art Stevens']$%&['Ron Miller', 'Wolfgang Reitherman', 'Art Stevens']
+Condorman$%&90$%&5.7$%&23.0$%&14000000.0$%&                None$%&Charles Jarrott$%&Jan Williams
+Tex$%&103$%&6.5$%&85.0$%&5000000.0$%&                7400000.0$%&Tim Hunter$%&['Tim Zinnemann', 'Ron Miller']
+Something Wicked This Way Comes$%&95$%&6.8$%&60.0$%&19000000.0$%&                8400000.0$%&Jack Clayton$%&Peter Douglas
+Never Cry Wolf$%&105$%&7.5$%&100.0$%&11000000.0$%&                27600000.0$%&Carroll Ballard$%&['Lewis Allen', 'Jack Couffer', 'Joseph Strick']
+Return to Oz$%&113$%&6.7$%&53.0$%&28000000.0$%&                11100000.0$%&Walter Murch$%&Paul Maslansky
+The Black Cauldron$%&80$%&6.4$%&53.0$%&25000000.0$%&                21300000.0$%&['Ted Berman', 'Richard Rich']$%&['Joe Hale', 'Ron Miller']
+The Great Mouse Detective$%&74$%&7.2$%&80.0$%&14000000.0$%&                38700000.0$%&['Ron Clements', 'Burny Mattinson', 'Dave Michener', 'John Musker']$%&Burny Mattinson
+Flight of the Navigator$%&90$%&6.9$%&84.0$%&9000000.0$%&                18564613.0$%&Randal Kleiser$%&['Dimitri Villard', 'Robert Wald']
+Honey, I Shrunk the Kids$%&93$%&6.4$%&76.0$%&18000000.0$%&                222700000.0$%&Joe Johnston$%&Penney Finkelman Cox
+Cheetah$%&84$%&6.1$%&50.0$%&5000000.0$%&                8153677.0$%&Jeff Blyth$%&['Roy E. Disney', 'Robert Halmi, Sr.']
+The Little Mermaid$%&83$%&7.6$%&93.0$%&40000000.0$%&                None$%&['Ron Clements', 'John Musker']$%&['John Musker', 'Howard Ashman']
+DuckTales the Movie: Treasure of the Lost Lamp$%&69$%&6.9$%&88.0$%&20000000.0$%&                18100000.0$%&Bob Hathcock$%&['Bob Hathcock', 'Jean-Pierre Quenet']
+White Fang$%&107$%&6.7$%&65.0$%&14000000.0$%&                34800000.0$%&Randal Kleiser$%&Markay Powell
+The Rocketeer$%&108$%&6.5$%&65.0$%&35000000.0$%&                46700000.0$%&Joe Johnston$%&['Charles Gordon', 'Lawrence Gordon', 'Lloyd Levin']
+Beauty and the Beast$%&84$%&8.0$%&94.0$%&25000000.0$%&                440100000.0$%&['Gary Trousdale', 'Kirk Wise']$%&Don Hahn
+Newsies$%&121$%&7.0$%&39.0$%&15000000.0$%&                2800000.0$%&Kenny Ortega$%&Michael Finnell
+Honey, I Blew Up the Kid$%&89$%&4.9$%&40.0$%&40000000.0$%&                58700000.0$%&Randal Kleiser$%&['Dawn Steel', 'Edward S. Feldman']
+The Mighty Ducks$%&104$%&6.5$%&23.0$%&14000000.0$%&                50800000.0$%&Stephen Herek$%&['Jon Avnet', 'Jordan Kerner']
+Aladdin$%&90$%&8.0$%&95.0$%&28000000.0$%&                504100000.0$%&['John Musker', 'Ron Clements']$%&['John Musker', 'Ron Clements']
+The Muppet Christmas Carol$%&86$%&7.7$%&76.0$%&12000000.0$%&                27200000.0$%&Brian Henson$%&['Brian Henson', 'Martin G. Baker']
+The Adventures of Huck Finn$%&107$%&6.2$%&73.0$%&6500000.0$%&                24100000.0$%&Stephen Sommers$%&['John Baldecchi', 'Steve White']
+Hocus Pocus$%&96$%&6.9$%&37.0$%&28000000.0$%&                39500000.0$%&Kenny Ortega$%&['David Kirschner', 'Steven Haft']
+Cool Runnings$%&98$%&7.0$%&76.0$%&17000000.0$%&                154900000.0$%&Jon Turteltaub$%&['Dawn Steel', 'Susan B. Landau', 'Jeffrey Bydalek']
+The Three Musketeers$%&105$%&5.7$%&26.0$%&30000000.0$%&                53900000.0$%&Stephen Herek$%&['Roger Birnbaum', 'Joe Roth', 'Jon Avnet']
+Blank Check$%&94$%&5.3$%&9.0$%&13000000.0$%&                30600000.0$%&Rupert Wainwright$%&['Gary Adelson', 'Craig Baumgarten', 'Tony Shimkin']
+The Lion King$%&88$%&8.5$%&93.0$%&45000000.0$%&                968500000.0$%&['Roger Allers', 'Rob Minkoff']$%&Don Hahn
+Angels in the Outfield$%&102$%&6.2$%&33.0$%&31000000.0$%&                50200000.0$%&William Dear$%&['Irby Smith', 'Joe Roth', 'Roger Birnbaum']
+The Santa Clause$%&97$%&6.5$%&71.0$%&22000000.0$%&                189800000.0$%&John Pasquin$%&['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver']
+Man of the House$%&96$%&5.4$%&9.0$%&22000000.0$%&                40070995.0$%&James Orr$%&['Bonnie Bruckheimer', 'Marty Katz']
+Tall Tale$%&98$%&5.9$%&50.0$%&32000000.0$%&                11000000.0$%&Jeremiah S. Chechik$%&['Roger Birnbaum', 'Joe Roth']
+Pocahontas$%&81$%&6.7$%&55.0$%&55000000.0$%&                346100000.0$%&['Mike Gabriel', 'Eric Goldberg']$%&Jim Pentecost
+Operation Dumbo Drop$%&108$%&5.1$%&31.0$%&24000000.0$%&                24670346.0$%&Simon Wincer$%&['Diane Nabatoff', 'David Madden']
+A Kid in King Arthur's Court$%&89$%&4.7$%&5.0$%&15000000.0$%&                13400000.0$%&Michael Gottlieb$%&['Peter Abrams', 'J.P. Guerin', 'Robert L. Levy']
+The Big Green$%&99$%&5.6$%&0.0$%&12000000.0$%&                17700000.0$%&Holly Goldberg Sloan$%&['Dennis Bishop', 'Roger Birnbaum']
+Toy Story$%&81$%&8.3$%&100.0$%&30000000.0$%&                373600000.0$%&John Lasseter$%&['Bonnie Arnold', 'Ralph Guggenheim']
+Muppet Treasure Island$%&100$%&7.0$%&73.0$%&31000000.0$%&                34300000.0$%&Brian Henson$%&['Martin G. Baker', 'Brian Henson']
+James and the Giant Peach$%&79$%&6.7$%&91.0$%&38000000.0$%&                28900000.0$%&Henry Selick$%&['Denise Di Novi', 'Tim Burton']
+The Hunchback of Notre Dame$%&91$%&6.9$%&71.0$%&100000000.0$%&                325300000.0$%&['Gary Trousdale', 'Kirk Wise']$%&Don Hahn
+First Kid$%&101$%&5.3$%&20.0$%&15000000.0$%&                26491793.0$%&David M. Evans$%&Roger Birnbaum
+101 Dalmatians$%&103$%&5.7$%&41.0$%&75000000.0$%&                320700000.0$%&Stephen Herek$%&['John Hughes', 'Ricardo Mestres']
+Jungle 2 Jungle$%&105$%&5.2$%&19.0$%&32000000.0$%&                59900000.0$%&John Pasquin$%&['Richard Baker', 'Brad Krevoy']
+Hercules$%&93$%&7.3$%&84.0$%&85000000.0$%&                252700000.0$%&['Ron Clements', 'John Musker']$%&['Alice Dewey', 'Ron Clements', 'John Musker']
+George of the Jungle$%&92$%&5.5$%&56.0$%&55000000.0$%&                174400000.0$%&Sam Weisman$%&['David Hoberman', 'Jordan Kerner', 'Jon Avnet']
+Air Bud$%&98$%&5.2$%&45.0$%&3000000.0$%&                27800000.0$%&Charles Martin Smith$%&['Robert Vince', 'William Vince']
+Flubber$%&93$%&5.3$%&24.0$%&80000000.0$%&                178000000.0$%&Les Mayfield$%&['John Hughes', 'Ricardo Mestres']
+Mr. Magoo$%&87$%&4.0$%&7.0$%&30000000.0$%&                28900000.0$%&Stanley Tong$%&Ben Myron
+Meet the Deedles$%&93$%&4.1$%&7.0$%&24000000.0$%&                4400000.0$%&Steve Boyum$%&['Dale Pollock', 'Aaron Meyerson']
+Mulan$%&87$%&7.6$%&86.0$%&90000000.0$%&                304300000.0$%&['Barry Cook', 'Tony Bancroft']$%&Pam Coats
+The Parent Trap$%&128$%&6.5$%&86.0$%&15000000.0$%&                92100000.0$%&Nancy Meyers$%&Charles Shyer
+I'll Be Home for Christmas$%&86$%&5.5$%&23.0$%&30000000.0$%&                12200000.0$%&Arlene Sanford$%&['Robin French', 'Justis Greene', 'David Hoberman', 'Tracey Trench']
+A Bug's Life$%&95$%&7.2$%&92.0$%&120000000.0$%&                363300000.0$%&John Lasseter$%&['Darla K. Anderson', 'Kevin Reher']
+Mighty Joe Young$%&114$%&5.6$%&54.0$%&90000000.0$%&                50600000.0$%&Ron Underwood$%&['Ted Hartley', 'Tom Jacobson']
+My Favorite Martian$%&93$%&5.1$%&12.0$%&65000000.0$%&                36800000.0$%&Donald Petrie$%&['Jerry Leider', 'Robert Shapiro', 'Marc Toberoff']
+Doug's 1st Movie$%&83$%&5.0$%&26.0$%&5000000.0$%&                19400000.0$%&Maurice Joyce$%&['David Campbell', 'Melanie Grisanti', 'Jim Jinkins', 'Bruce Knapp', 'Jack Spillum']
+Tarzan$%&88$%&7.3$%&89.0$%&130000000.0$%&                448200000.0$%&['Kevin Lima', 'Chris Buck']$%&Bonnie Arnold
+Inspector Gadget$%&78$%&4.1$%&21.0$%&90000000.0$%&                134400000.0$%&David Kellogg$%&['Roger Birnbaum', 'Andy Heyward', 'Jordan Kerner', 'Aaron Meyerson']
+The Straight Story$%&112$%&8.0$%&95.0$%&10000000.0$%&                6200000.0$%&David Lynch$%&['Mary Sweeney', 'Neal Edelstein', 'Alain Sarde']
+Toy Story 2$%&92$%&7.9$%&100.0$%&90000000.0$%&                497400000.0$%&John Lasseter$%&['Helene Plotkin', 'Karen Robert Jackson']
+Fantasia 2000$%&74$%&7.2$%&81.0$%&85000000.0$%&                90900000.0$%&['Don Hahn', 'Pixote Hunt', 'Hendel Butoy', 'Eric Goldberg', 'James Algar', 'Francis Glebas', 'Paul and Gaëtan Brizzi']$%&['Roy E. Disney', 'Donald W. Ernst']
+The Tigger Movie$%&77$%&6.3$%&62.0$%&15000000.0$%&                96200000.0$%&Jun Falkenstein$%&Cheryl Abood
+Dinosaur$%&82$%&6.5$%&64.0$%&127500000.0$%&                349800000.0$%&['Ralph Zondag', 'Eric Leighton']$%&Pam Marsden
+The Kid$%&104$%&8.3$%&100.0$%&65000000.0$%&                110300000.0$%&Jon Turteltaub$%&['Hunt Lowry', 'Arnold Rifkin', 'Christina Steinberg', 'Jon Turteltaub', 'David Willis']
+Remember The Titans$%&113$%&7.8$%&73.0$%&30000000.0$%&                136700000.0$%&Boaz Yakin$%&['Jerry Bruckheimer', 'Chad Oman']
+102 Dalmatians$%&100$%&4.9$%&31.0$%&85000000.0$%&                183600000.0$%&Kevin Lima$%&Edward S. Feldman
+The Emperor's New Groove$%&78$%&7.3$%&85.0$%&100000000.0$%&                169300000.0$%&Mark Dindal$%&Randy Fullmer
+Recess: School's Out$%&83$%&6.6$%&60.0$%&23000000.0$%&                44500000.0$%&Chuck Sheetz$%&['Joe Ansolabehere', 'Paul Germain', 'Stephen Swofford']
+Atlantis: The Lost Empire$%&96$%&6.9$%&49.0$%&90000000.0$%&                186100000.0$%&['Gary Trousdale', 'Kirk Wise']$%&Don Hahn
+The Princess Diaries$%&115$%&6.3$%&48.0$%&26000000.0$%&                165300000.0$%&Garry Marshall$%&['Whitney Houston', 'Debra Martin Chase', 'Mario Iscovich']
+Max Keeble's Big Move$%&86$%&5.4$%&29.0$%&25000000.0$%&                18600000.0$%&Tim Hill$%&Mike Karz
+Monsters, Inc.$%&92$%&8.0$%&96.0$%&115000000.0$%&                577400000.0$%&Pete Docter$%&Darla K. Anderson
+Snow Dogs$%&99$%&5.2$%&25.0$%&33000000.0$%&                115000000.0$%&Brian Levant$%&Jordan Kerner
+Return to Never Land$%&73$%&5.8$%&45.0$%&20000000.0$%&                115100000.0$%&Robin Budd$%&['Christopher Chase', 'Michelle Pappalardo-Robinson', 'Dan Rounds']
+The Rookie$%&128$%&6.9$%&84.0$%&22000000.0$%&                80700000.0$%&John Lee Hancock$%&['Mark Ciardi', 'Gordon Gray', 'Mark Johnson']
+Lilo & Stitch$%&85$%&7.2$%&86.0$%&80000000.0$%&                273100000.0$%&['Chris Sanders', 'Dean DeBlois']$%&Clark Spencer
+The Country Bears$%&88$%&4.1$%&31.0$%&35000000.0$%&                18000000.0$%&Peter Hastings$%&['Jeffrey Chernov', 'Andrew Gunn']
+Tuck Everlasting$%&96$%&6.6$%&60.0$%&15000000.0$%&                19300000.0$%&Jay Russell$%&['Marc Abraham', 'Jane Startz', 'Thomas Bliss']
+The Santa Clause 2$%&104$%&5.6$%&56.0$%&65000000.0$%&                172900000.0$%&Michael Lembeck$%&['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver']
+Treasure Planet$%&95$%&7.2$%&69.0$%&140000000.0$%&                109600000.0$%&['Ron Clements', 'John Musker']$%&['Ron Clements', 'John Musker', 'Roy Conli']
+The Jungle Book 2$%&72$%&5.4$%&19.0$%&20000000.0$%&                135700000.0$%&Steve Trenbirth$%&['Christopher Chase', 'Mary Thorne']
+Piglet's Big Movie$%&75$%&6.1$%&70.0$%&46000000.0$%&                62900000.0$%&Francis Glebas$%&Michelle Pappalardo-Robinson
+Ghosts of the Abyss$%&61$%&6.8$%&80.0$%&13000000.0$%&                28700000.0$%&James Cameron$%&['John Bruno', 'James Cameron', 'Chuck Comisky', 'Janace Tashjian', 'Andrew Wight']
+Holes$%&117$%&7.0$%&78.0$%&20000000.0$%&                71400000.0$%&Andrew Davis$%&['Andrew Davis', 'Lowell D. Blank', 'Mike Medavoy', 'Teresa Tucker-Davies']
+The Lizzie McGuire Movie$%&94$%&5.5$%&41.0$%&17000000.0$%&                55500000.0$%&Jim Fall$%&Stan Rogow
+Finding Nemo$%&100$%&8.1$%&99.0$%&94000000.0$%&                940300000.0$%&Andrew Stanton$%&Graham Walters
+Pirates of the Caribbean: The Curse of the Black Pearl$%&143$%&8.0$%&79.0$%&140000000.0$%&                654300000.0$%&Gore Verbinski$%&Jerry Bruckheimer
+Freaky Friday$%&97$%&6.2$%&88.0$%&26000000.0$%&                160800000.0$%&Mark Waters$%&Andrew Gunn
+Brother Bear$%&85$%&6.8$%&37.0$%&46000000.0$%&                250400000.0$%&['Aaron Blaise', 'Robert Walker']$%&Chuck Williams
+The Haunted Mansion$%&86$%&5.0$%&14.0$%&90000000.0$%&                182300000.0$%&Rob Minkoff$%&['Andrew Gunn', 'Don Hahn']
+Teacher's Pet$%&74$%&7.1$%&86.0$%&10000000.0$%&                6500000.0$%&Timothy Björklund$%&Stephen Swofford
+Miracle$%&136$%&7.5$%&81.0$%&28000000.0$%&                64500000.0$%&Gavin O'Connor$%&['Mark Ciardi', 'Gordon Gray', 'Ross Greenburg', 'Justis Greene', 'Jon Mone', "Greg O'Connor"]
+Confessions of a Teenage Drama Queen$%&89$%&4.7$%&14.0$%&15000000.0$%&                33100000.0$%&Sara Sugarman$%&['Robert Shapiro', 'Jerry Leider']
+Home on the Range$%&76$%&5.3$%&53.0$%&110000000.0$%&                145500000.0$%&['Will Finn', 'John Sanford']$%&Alice Dewey Goldstone
+Around the World in 80 Days$%&120$%&5.9$%&32.0$%&110000000.0$%&                72200000.0$%&Frank Coraci$%&['Bill Badalato', 'Hal Lieberman']
+The Princess Diaries 2: Royal Engagement$%&113$%&5.8$%&26.0$%&45000000.0$%&                134700000.0$%&Garry Marshall$%&['Whitney Houston', 'Debra Martin Chase']
+National Treasure$%&131$%&6.9$%&46.0$%&100000000.0$%&                347500000.0$%&Jon Turteltaub$%&['Jerry Bruckheimer', 'Jon Turteltaub']
+Pooh's Heffalump Movie$%&68$%&6.4$%&80.0$%&20000000.0$%&                52900000.0$%&Frank Nissen$%&Jessica Koplos-Miller
+The Pacifier$%&95$%&5.6$%&21.0$%&56000000.0$%&                198600000.0$%&Adam Shankman$%&['Roger Birnbaum', 'Gary Barber', 'Jonathan Glickman']
+Ice Princess$%&97$%&6.0$%&52.0$%&25000000.0$%&                27600000.0$%&Tim Fywell$%&Bridget Johnson
+Herbie: Fully Loaded$%&101$%&4.8$%&41.0$%&50000000.0$%&                144100000.0$%&Angela Robinson$%&Robert Simonds
+Sky High$%&100$%&6.2$%&73.0$%&35000000.0$%&                86400000.0$%&Mike Mitchell$%&Andrew Gunn
+Valiant$%&76$%&5.5$%&32.0$%&35000000.0$%&                61700000.0$%&Gary Chapman$%&['John H. Williams', 'Barnaby Thompson (executive producer)']
+The Greatest Game Ever Played$%&120$%&7.4$%&63.0$%&25000000.0$%&                15400000.0$%&Bill Paxton$%&['David Blocker', 'Larry Brezner', 'Mark Frost']
+Chicken Little$%&81$%&5.7$%&37.0$%&150000000.0$%&                314400000.0$%&Mark Dindal$%&Randy Fullmer
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe$%&143$%&6.9$%&76.0$%&180000000.0$%&                745000000.0$%&Andrew Adamson$%&['Mark Johnson', 'Phillip Steuer']
+Roving Mars$%&40$%&7.2$%&71.0$%&1000000.0$%&                11000000.0$%&George Butler$%&['George Butler', 'Frank Marshall']
+Eight Below$%&120$%&7.3$%&73.0$%&40000000.0$%&                120500000.0$%&Frank Marshall$%&['Patrick Crowley', 'David Hoberman']
+The Shaggy Dog$%&99$%&4.4$%&26.0$%&50000000.0$%&                87100000.0$%&Brian Robbins$%&['David Hoberman', 'Tim Allen']
+The Wild$%&82$%&5.3$%&50.0$%&80000000.0$%&                102300000.0$%&Steve "Spaz" Williams$%&['Clint Goldman', 'Beau Flynn']
+Cars$%&117$%&7.1$%&75.0$%&120000000.0$%&                462000000.0$%&John Lasseter$%&Darla K. Anderson
+Pirates of the Caribbean: Dead Man's Chest$%&151$%&7.3$%&53.0$%&225000000.0$%&                1066000000.0$%&Gore Verbinski$%&Jerry Bruckheimer
+Invincible$%&104$%&7.1$%&72.0$%&30000000.0$%&                58500000.0$%&Ericson Core$%&['Gordon Gray', 'Mark Ciardi']
+The Nightmare Before Christmas$%&76$%&8.0$%&95.0$%&18000000.0$%&                89100000.0$%&Henry Selick$%&['Tim Burton', 'Denise Di Novi']
+The Santa Clause 3: The Escape Clause$%&92$%&4.7$%&17.0$%&12000000.0$%&                110800000.0$%&Michael Lembeck$%&['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver']
+Bridge to Terabithia$%&95$%&7.1$%&85.0$%&20000000.0$%&                138000000.0$%&Gábor Csupó$%&['David L. Paterson', 'Lauren Levine', 'Hal Lieberman']
+Pirates of the Caribbean: At World's End$%&168$%&7.1$%&44.0$%&300000000.0$%&                961000000.0$%&Gore Verbinski$%&Jerry Bruckheimer
+Ratatouille$%&111$%&8.0$%&96.0$%&150000000.0$%&                620700000.0$%&Brad Bird$%&Brad Lewis
+Underdog$%&82$%&4.7$%&14.0$%&25000000.0$%&                65300000.0$%&Frederik Du Chau$%&['Gary Barber', 'Roger Birnbaum', 'Jonathan Glickman', 'Jay Polstein']
+The Game Plan$%&110$%&6.1$%&28.0$%&22000000.0$%&                146600000.0$%&Andy Fickman$%&['Mark Ciardi', 'Gordon Gray']
+Enchanted$%&107$%&7.0$%&93.0$%&85000000.0$%&                340500000.0$%&Kevin Lima$%&['Barry Josephson', 'Barry Sonnenfeld']
+National Treasure: Book of Secrets$%&124$%&6.5$%&36.0$%&130000000.0$%&                459200000.0$%&Jon Turteltaub$%&['Jerry Bruckheimer', 'Jon Turteltaub']
+Hannah Montana and Miley Cyrus: Best of Both Worlds Concert$%&74$%&2.4$%&71.0$%&7000000.0$%&                70600000.0$%&Bruce Hendricks$%&Art Repola
+College Road Trip$%&83$%&4.3$%&12.0$%&25000000.0$%&                51500000.0$%&Roger Kumble$%&Andrew Gunn
+The Chronicles of Narnia: Prince Caspian$%&150$%&6.5$%&67.0$%&225000000.0$%&                419700000.0$%&Andrew Adamson$%&['Mark Johnson', 'Andrew Adamson', 'Philip Steuer']
+WALL-E$%&97$%&8.4$%&95.0$%&180000000.0$%&                533299999.99999994$%&Andrew Stanton$%&Jim Morris
+Beverly Hills Chihuahua$%&91$%&3.8$%&40.0$%&20000000.0$%&                149300000.0$%&Raja Gosnell$%&['David Hoberman', 'Todd Lieberman', 'John Jacobs', 'Ricardo Del Río']
+Bolt$%&96$%&6.8$%&89.0$%&150000000.0$%&                310000000.0$%&['Chris Williams', 'Byron Howard']$%&Clark Spencer
+Bedtime Stories$%&99$%&6.0$%&27.0$%&80000000.0$%&                212900000.0$%&Adam Shankman$%&['Adam Sandler', 'Andrew Gunn', 'Jack Giarraputo']
+Race to Witch Mountain$%&98$%&5.7$%&43.0$%&50000000.0$%&                106400000.0$%&Andy Fickman$%&Andrew Gunn
+Hannah Montana: The Movie$%&97$%&4.5$%&43.0$%&30000000.0$%&                169.2$%&Peter Chelsom$%&['David Blocker', 'Billy Ray Cyrus', 'Alfred Gough', 'Miles Millar', 'Steven Peterman', 'Michael Poryes']
+Earth$%&99$%&8.0$%&86.0$%&47000000.0$%&                109000000.0$%&['Alastair Fothergill', 'Mark Linfield']$%&['Alix Tidmarsh', 'Sophokles Tasioulius']
+Up$%&96$%&8.2$%&98.0$%&175000000.0$%&                735100000.0$%&Pete Docter$%&Jonas Rivera
+G-Force$%&90$%&5.1$%&22.0$%&150000000.0$%&                292800000.0$%&Hoyt H. Yeatman Jr.$%&Jerry Bruckheimer
+A Christmas Carol$%&96$%&6.8$%&52.0$%&175000000.0$%&                325000000.0$%&Robert Zemeckis$%&['Steve Starkey', 'Robert Zemeckis', 'Jack Rapke']
+Old Dogs$%&88$%&5.4$%&5.0$%&35000000.0$%&                96800000.0$%&Walt Becker$%&['Andrew Panay', 'Robert L. Levy', 'Peter Abrams']
+The Princess and the Frog$%&97$%&7.1$%&85.0$%&105000000.0$%&                269000000.0$%&['Ron Clements', 'John Musker']$%&Peter Del Vecho
+Alice in Wonderland$%&108$%&6.4$%&51.0$%&200000000.0$%&                1024999999.9999999$%&Tim Burton$%&['Richard D. Zanuck', 'Joe Roth', 'Suzanne Todd', 'Jennifer Todd']
+Oceans$%&104$%&7.8$%&81.0$%&80000000.0$%&                82700000.0$%&['Jacques Perrin', 'Jacques Cluzaud', '(co-director)']$%&['Jacques Perrin', 'Romain Legrand', 'Nicolas Mauvernay', 'Jake Eberts']
+Prince of Persia: The Sands of Time$%&116$%&6.6$%&37.0$%&150.0$%&                336400000.0$%&Mike Newell$%&Jerry Bruckheimer
+Toy Story 3$%&103$%&8.3$%&98.0$%&200000000.0$%&                1067000000.0$%&Lee Unkrich$%&Darla K. Anderson
+The Sorcerer's Apprentice$%&109$%&6.1$%&40.0$%&150000000.0$%&                215300000.0$%&Jon Turteltaub$%&Jerry Bruckheimer
+Secretariat$%&123$%&7.2$%&63.0$%&35000000.0$%&                60300000.0$%&Randall Wallace$%&['Mark Ciardi', 'Gordon Gray']
+Tangled$%&100$%&7.7$%&89.0$%&260000000.0$%&                592400000.0$%&['Nathan Greno', 'Byron Howard']$%&Roy Conli
+Tron: Legacy$%&125$%&6.8$%&51.0$%&150000000.0$%&                410000000.0$%&Joseph Kosinski$%&['Sean Bailey', 'Jeffrey Silver', 'Steven Lisberger']
+Mars Needs Moms$%&88$%&5.4$%&37.0$%&150000000.0$%&                39200000.0$%&Simon Wells$%&['Robert Zemeckis', 'Jack Rapke', 'Steve Starkey', 'Steven Boyd']
+African Cats$%&89$%&7.6$%&73.0$%&5000000.0$%&                30900000.0$%&['Alastair Fothergill', 'Keith Scholey']$%&['Alix Tidmarsh', 'Keith Scholey']
+Prom$%&104$%&5.4$%&36.0$%&8000000.0$%&                10100000.0$%&Joe Nussbaum$%&['Ted Griffin', 'Justin Springer']
+Pirates of the Caribbean: On Stranger Tides$%&137$%&6.6$%&33.0$%&410600000.0$%&                1046000000.0$%&Rob Marshall$%&Jerry Bruckheimer , Neal H. Moritz
+Cars 2$%&106$%&6.1$%&39.0$%&200000000.0$%&                562100000.0$%&John Lasseter$%&Denise Ream
+Winnie the Pooh$%&69$%&7.2$%&91.0$%&30000000.0$%&                50100000.0$%&['Stephen J. Anderson', 'Don Hall']$%&['Peter Del Vecho', 'Clark Spencer']
+The Muppets$%&103$%&7.1$%&95.0$%&45000000.0$%&                165200000.0$%&James Bobin$%&['David Hoberman', 'Todd Lieberman']
+John Carter$%&132$%&6.6$%&52.0$%&306600000.0$%&                284100000.0$%&Andrew Stanton$%&['Jim Morris', 'Colin Wilson', 'Lindsey Collins']
+Chimpanzee$%&77$%&7.2$%&76.0$%&5000000.0$%&                34800000.0$%&['Alastair Fothergill', 'Mark Linfield']$%&['Alastair Fothergill', 'Mark Linfield', 'Alix Tidmarsh']
+Brave$%&93$%&7.1$%&78.0$%&185000000.0$%&                540400000.0$%&['Mark Andrews', 'Brenda Chapman']$%&Katherine Sarafian
+The Odd Life of Timothy Green$%&104$%&6.6$%&36.0$%&25000000.0$%&                56000000.0$%&Peter Hedges$%&['Scott Sanders', 'James Whitaker', 'Ahmet Zappa']
+Frankenweenie$%&87$%&6.9$%&87.0$%&39000000.0$%&                81500000.0$%&Tim Burton$%&['Tim Burton', 'Allison Abbate']
+Wreck-It Ralph$%&101$%&7.7$%&87.0$%&165000000.0$%&                471200000.0$%&Rich Moore$%&Clark Spencer
+Oz the Great and Powerful$%&130$%&6.3$%&57.0$%&200000000.0$%&                493300000.0$%&Sam Raimi$%&Joe Roth
+Monsters University$%&104$%&7.3$%&80.0$%&200000000.0$%&                743600000.0$%&Dan Scanlon$%&Kori Rae
+The Lone Ranger$%&149$%&6.4$%&30.0$%&225000000.0$%&                260500000.0$%&Gore Verbinski$%&['Jerry Bruckheimer', 'Gore Verbinski']
+Planes$%&92$%&5.7$%&25.0$%&50000000.0$%&                239300000.0$%&Klay Hall$%&Tracy Balthazor-Flynn
+Frozen$%&102$%&7.4$%&90.0$%&150000000.0$%&                1280000000.0$%&['Chris Buck', 'Jennifer Lee']$%&Peter Del Vecho
+Saving Mr. Banks$%&125$%&7.5$%&79.0$%&35000000.0$%&                117900000.0$%&John Lee Hancock$%&['Alison Owen', 'Ian Collie', 'Philip Steuer']
+Muppets Most Wanted$%&107$%&6.4$%&80.0$%&51000000.0$%&                80400000.0$%&James Bobin$%&['David Hoberman', 'Todd Lieberman']
+Million Dollar Arm$%&124$%&7.0$%&65.0$%&25000000.0$%&                39200000.0$%&Craig Gillespie$%&['Joe Roth', 'Mark Ciardi', 'Gordon Gray']
+Maleficent$%&97$%&7.0$%&54.0$%&180000000.0$%&                758500000.0$%&Robert Stromberg$%&Joe Roth
+Planes: Fire & Rescue$%&84$%&6.0$%&44.0$%&50000000.0$%&                147000000.0$%&Bobs Gannaway$%&Ferrell Barron
+Khoobsurat$%&127$%&6.4$%&80.0$%&3200000.0$%&                11000000.0$%&Shashanka Ghosh$%&['Rhea Kapoor', 'Anil Kapoor', 'Siddharth Roy Kapur']
+Alexander and the Terrible, Horrible, No Good, Very Bad Day$%&81$%&6.2$%&61.0$%&28000000.0$%&                100700000.0$%&Miguel Arteta$%&['Shawn Levy', 'Dan Levine', 'Lisa Henson']
+Big Hero 6$%&102$%&7.8$%&89.0$%&165000000.0$%&                657800000.0$%&['Don Hall', 'Chris Williams']$%&Roy Conli
+Into the Woods$%&124$%&5.9$%&71.0$%&50000000.0$%&                213100000.0$%&Rob Marshall$%&['Rob Marshall', 'John DeLuca', 'Marc Platt', 'Callum McDougall']
+McFarland, USA$%&129$%&7.4$%&81.0$%&25000000.0$%&                45700000.0$%&Niki Caro$%&['Gordon Gray', 'Mark Ciardi']
+Cinderella$%&106$%&6.9$%&84.0$%&95000000.0$%&                542400000.0$%&Kenneth Branagh$%&['Simon Kinberg', 'Allison Shearmur', 'David Barron']
+Monkey Kingdom$%&82$%&7.3$%&93.0$%&5000000.0$%&                17100000.0$%&['Mark Linfield', 'Alastair Fothergill']$%&['Mark Linfield', 'Alastair Fothergill']
+Tomorrowland$%&130$%&6.4$%&50.0$%&180000000.0$%&                209000000.0$%&Brad Bird$%&['Damon Lindelof', 'Brad Bird', 'Jeffrey Chernov']
+Inside Out$%&94$%&8.1$%&98.0$%&175000000.0$%&                858000000.0$%&Pete Docter$%&Jonas Rivera
+The Good Dinosaur$%&94$%&6.7$%&76.0$%&175000000.0$%&                332200000.0$%&Peter Sohn$%&Denise Ream
+The Finest Hours$%&117$%&6.8$%&63.0$%&70000000.0$%&                52100000.0$%&Craig Gillespie$%&['Jim Whitaker', 'Dorothy Aufiero']
+Zootopia$%&108$%&8.0$%&98.0$%&150000000.0$%&                1024000000.0$%&['Byron Howard', 'Rich Moore']$%&Clark Spencer
+The Jungle Book$%&106$%&7.4$%&94.0$%&175000000.0$%&                966600000.0$%&Jon Favreau$%&['Jon Favreau', 'Brigham Taylor']
+Alice Through the Looking Glass$%&113$%&6.2$%&29.0$%&170000000.0$%&                300000000.0$%&James Bobin$%&['Joe Roth', 'Suzanne Todd', 'Jennifer Todd', 'Tim Burton']
+Finding Dory$%&97$%&7.3$%&94.0$%&175000000.0$%&                1028999999.9999999$%&Andrew Stanton$%&Lindsey Collins
+The BFG$%&117$%&6.4$%&74.0$%&140000000.0$%&                195200000.0$%&Steven Spielberg$%&['Steven Spielberg', 'Frank Marshall', 'Sam Mercer']
+Pete's Dragon$%&103$%&6.7$%&88.0$%&65000000.0$%&                143700000.0$%&David Lowery$%&James Whitaker
+Queen of Katwe$%&124$%&7.4$%&93.0$%&15000000.0$%&                10400000.0$%&Mira Nair$%&['John Carls', 'Lydia Dean Pilcher']
+Moana$%&107$%&7.6$%&95.0$%&150000000.0$%&                690800000.0$%&['Ron Clements', 'John Musker']$%&Osnat Shurer
+March of the Penguins$%&80$%&7.5$%&94.0$%&8000000.0$%&                127400000.0$%&Luc Jacquet$%&['Yves Darondeau', 'Christophe Lioud', 'Emmanuel Priou']
+Beauty and the Beast$%&129$%&8.0$%&94.0$%&160000000.0$%&                1264000000.0$%&Bill Condon$%&['David Hoberman', 'Todd Lieberman']
+Born in China$%&76$%&7.2$%&85.0$%&5000000.0$%&                25100000.0$%&Lu Chuan$%&['Roy Conli', 'Brian Leith', 'Phil Chapman']
+Pirates of the Caribbean: Dead Men Tell No Tales$%&129$%&6.6$%&29.0$%&230000000.0$%&                794900000.0$%&['Joachim Rønning', 'Espen Sandberg']$%&Jerry Bruckheimer
+Cars 3$%&102$%&6.7$%&70.0$%&175000000.0$%&                383900000.0$%&Brian Fee$%&Kevin Reher
+Coco$%&105$%&8.4$%&97.0$%&175000000.0$%&                807100000.0$%&Lee Unkrich$%&Darla K. Anderson
+A Wrinkle in Time$%&109$%&4.2$%&42.0$%&100000000.0$%&                133400000.0$%&Ava DuVernay$%&['Jim Whitaker', 'Catherine Hand']
+Incredibles 2$%&118$%&7.6$%&93.0$%&200000000.0$%&                1243000000.0$%&Brad Bird$%&['John Walker', 'Nicole Paradis Grindle']
+The Nutcracker and the Four Realms$%&99$%&5.5$%&32.0$%&120000000.0$%&                174000000.0$%&['Lasse Hallström', 'Joe Johnston']$%&['Mark Gordon', 'Larry Franco']
+Ralph Breaks the Internet$%&112$%&7.1$%&88.0$%&175000000.0$%&                529299999.99999994$%&['Rich Moore', 'Phil Johnston']$%&Clark Spencer
+Mary Poppins Returns$%&131$%&6.7$%&79.0$%&130000000.0$%&                349500000.0$%&Rob Marshall$%&['Rob Marshall', 'John DeLuca', 'Marc Platt']
+Dumbo$%&112$%&7.2$%&98.0$%&170000000.0$%&                353300000.0$%&Tim Burton$%&['Justin Springer', 'Ehren Kruger', 'Katterli Frauenfelder', 'Derek Frey']
+Aladdin$%&128$%&8.0$%&95.0$%&183000000.0$%&                None$%&Guy Ritchie$%&['Dan Lin', 'Jonathan Eirich']
+Toy Story 4$%&100$%&7.8$%&97.0$%&200000000.0$%&                1073000000.0$%&Josh Cooley$%&['Mark Nielsen', 'Jonas Rivera']
+The Lion King$%&118$%&8.5$%&93.0$%&250000000.0$%&                1657000000.0$%&Jon Favreau$%&['Jon Favreau', 'Jeffrey Silver', 'Karen Gilchrist']
+Maleficent: Mistress of Evil$%&119$%&6.6$%&40.0$%&185000000.0$%&                491700000.0$%&Joachim Rønning$%&['Joe Roth', 'Angelina Jolie', 'Duncan Henderson']
+Lady and the Tramp$%&104$%&7.3$%&93.0$%&60000000.0$%&                None$%&Charlie Bean$%&Brigham Taylor
+Frozen II$%&103$%&6.9$%&77.0$%&150000000.0$%&                1450000000.0$%&['Chris Buck', 'Jennifer Lee']$%&Peter Del Vecho
+Onward$%&102$%&7.4$%&88.0$%&175000000.0$%&                136400000.0$%&Dan Scanlon$%&Kori Rae
+Artemis Fowl$%&95$%&4.1$%&9.0$%&125000000.0$%&                None$%&Kenneth Branagh$%&['Kenneth Branagh', 'Judy Hofflund']
+Mulan$%&115$%&7.6$%&86.0$%&200000000.0$%&                57000000.0$%&Niki Caro$%&['Chris Bender', 'Jake Weiner', 'Jason T. Reed']
+Soul$%&None$%&7.0$%&45.0$%&150000000.0$%&                None$%&Pete Docter$%&Dana Murray

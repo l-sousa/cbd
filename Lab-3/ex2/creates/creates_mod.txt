@@ -1,0 +1,84 @@
+
+drop KEYSPACE spv;
+CREATE KEYSPACE spv
+WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3}; 
+use spv;
+
+CREATE TABLE comment (
+	id int,
+	comment_time timestamp,
+	author varchar,
+	content varchar,
+	vid_id varchar,
+	PRIMARY KEY (id,comment_time)
+);
+
+CREATE TABLE comment_author (
+	author varchar,
+	comment_time timestamp,
+	comment_id int,
+	content varchar,
+	PRIMARY KEY (author,comment_time)
+) WITH CLUSTERING ORDER BY (comment_time desc);
+
+CREATE TABLE comment_video (
+	vid_id varchar,
+	comment_time timestamp,
+	comment_id int,
+	content varchar,
+	PRIMARY KEY (vid_id,comment_time)
+) WITH CLUSTERING ORDER BY (comment_time desc);
+
+CREATE TABLE event (
+	vid_id varchar,
+	user varchar,
+	event varchar,
+	event_timestamp timestamp,
+	id uuid,
+	video_timestamp timestamp,
+	PRIMARY KEY (user,vid_id)
+);
+
+CREATE TABLE followers (
+    vid_id varchar,
+	title varchar,
+    followers list<text>,
+    PRIMARY KEY(vid_id)
+);
+
+CREATE TABLE rating (
+	vid_id varchar,
+	value int,
+	user text,
+	PRIMARY KEY ((vid_id, user))
+);
+
+CREATE TABLE user (
+	email varchar,
+	name varchar,
+	regist_time timestamp,
+	username varchar,
+	PRIMARY KEY (email)
+);
+
+CREATE TABLE video (
+	id varchar,
+	upload_time timestamp,
+	author varchar,
+	tag varchar,
+	title varchar,
+	PRIMARY KEY (id,upload_time)
+);
+
+CREATE TABLE video_author (
+	email varchar,
+	vid_id varchar,
+	comment_time timestamp,
+	PRIMARY KEY ((email,comment_time), vid_id)
+);
+
+CREATE TABLE video_tag (
+	tag varchar,
+	vid_id varchar,
+	PRIMARY KEY (tag)
+);
