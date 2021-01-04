@@ -313,77 +313,214 @@ LIMIT 10
 : Apresente o subgrafo ACTED_IN do filme com o elenco mais novo, no momento do lançamento do filme.  
 
 ```
-
+MATCH (actor)-[r:ACTED_IN]->(m:Movie)
+WITH m, date.realtime().year - round(avg(actor.born)) as avg_age
+ORDER BY avg_age
+LIMIT 1
+MATCH (actor)-[:ACTED_IN]->(m)
+RETURN m.title, actor, avg_age
+╒════════════════╤════════════════════════════════╤═════════╕
+│"m.title"       │"actor"                         │"avg_age"│
+╞════════════════╪════════════════════════════════╪═════════╡
+│"Ninja Assassin"│{"name":"Naomie Harris"}        │48.0     │
+├────────────────┼────────────────────────────────┼─────────┤
+│"Ninja Assassin"│{"name":"Rain","born":1982}     │48.0     │
+├────────────────┼────────────────────────────────┼─────────┤
+│"Ninja Assassin"│{"name":"Rick Yune","born":1971}│48.0     │
+├────────────────┼────────────────────────────────┼─────────┤
+│"Ninja Assassin"│{"name":"Ben Miles","born":1967}│48.0     │
+└────────────────┴────────────────────────────────┴─────────┘
 ```
 
 9
 : Qual é o caminho mais curto (usando qualquer tipo de relação) entre John Cusack e Demi Moore? 
 
 ```
-FALTA FAZER
+MATCH shortest_path=shortestPath((:Person{name:"John Cusack"})-[*]-(:Person{name:"Demi Moore"}))
+RETURN shortest_path
+╒══════════════════════════════════════════════════════════════════════╕
+│"shortest_path"                                                       │
+╞══════════════════════════════════════════════════════════════════════╡
+│[{"name":"John Cusack","born":1966},{"roles":["Denny Lachance"]},{"tag│
+│line":"For some, it's the last real taste of innocence, and the first │
+│real taste of life. But for everyone, it's the time that memories are │
+│made of.","title":"Stand By Me","released":1986},{"tagline":"For some,│
+│ it's the last real taste of innocence, and the first real taste of li│
+│fe. But for everyone, it's the time that memories are made of.","title│
+│":"Stand By Me","released":1986},{},{"name":"Rob Reiner","born":1947},│
+│{"name":"Rob Reiner","born":1947},{},{"tagline":"In the heart of the n│
+│ation's capital, in a courthouse of the U.S. government, one man will │
+│stop at nothing to keep his honor, and one will stop at nothing to fin│
+│d the truth.","title":"A Few Good Men","released":1992},{"tagline":"In│
+│ the heart of the nation's capital, in a courthouse of the U.S. govern│
+│ment, one man will stop at nothing to keep his honor, and one will sto│
+│p at nothing to find the truth.","title":"A Few Good Men","released":1│
+│992},{"roles":["Lt. Cdr. JoAnne Galloway"]},{"name":"Demi Moore","born│
+│":1962}]                                                              │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+10
+: Qual a dimensão caminho mais curto (usando qualquer tipo de relação) entre Keanu Reeves e Tom Cruise?
+
+```
+MATCH shortest_path=shortestPath((:Person{name:"John Cusack"})-[*]-(:Person{name:"Demi Moore"}))
+WITH length(shortest_path) as len_path
+return len_path
+╒══════════╕
+│"len_path"│
+╞══════════╡
+│4         │
+└──────────┘
+```
+
+11
+: Quais são a dimensão do caminho mais curto entre pessoas com nome Jim e pessoas com nome Kevin?
+
+```
+MATCH shortest_path=shortestPath((a1:Person)-[*]-(a2:Person))
+WHERE a1.name STARTS WITH "Jim" AND a2.name STARTS WITH "Kevin"
+WITH a1, a2, length(shortest_path) as len_path
+return len_path, a1.name, a2.name
+╒══════════╤═══════════════╤══════════════╕
+│"len_path"│"a1.name"      │"a2.name"     │
+╞══════════╪═══════════════╪══════════════╡
+│4         │"Jim Cash"     │"Kevin Bacon" │
+├──────────┼───────────────┼──────────────┤
+│4         │"Jim Cash"     │"Kevin Pollak"│
+├──────────┼───────────────┼──────────────┤
+│4         │"Jim Broadbent"│"Kevin Bacon" │
+├──────────┼───────────────┼──────────────┤
+│6         │"Jim Broadbent"│"Kevin Pollak"│
+└──────────┴───────────────┴──────────────┘
+```
+
+12
+: Que pessoas têm uma distância 2 para Jim Cash (a distância entre duas pessoas é o comprimento do caminho mais curto entre eles)?
+
+```
+MATCH shortest_path=shortestPath((a1:Person)-[*]-(jc:Person {name: "Jim Cash"}))
+WHERE NOT a1.name="Jim Cash"
+WITH a1, length(shortest_path) as len_path, jc
+WHERE len_path = 2
+return len_path, a1.name, jc.name
+╒══════════╤═════════════════╤══════════╕
+│"len_path"│"a1.name"        │"jc.name" │
+╞══════════╪═════════════════╪══════════╡
+│2         │"Tom Cruise"     │"Jim Cash"│
+├──────────┼─────────────────┼──────────┤
+│2         │"Kelly McGillis" │"Jim Cash"│
+├──────────┼─────────────────┼──────────┤
+│2         │"Val Kilmer"     │"Jim Cash"│
+├──────────┼─────────────────┼──────────┤
+│2         │"Anthony Edwards"│"Jim Cash"│
+├──────────┼─────────────────┼──────────┤
+│2         │"Tom Skerritt"   │"Jim Cash"│
+├──────────┼─────────────────┼──────────┤
+│2         │"Meg Ryan"       │"Jim Cash"│
+├──────────┼─────────────────┼──────────┤
+│2         │"Tony Scott"     │"Jim Cash"│
+└──────────┴─────────────────┴──────────┘
+```
+
+13
+: Qual é a maior distância de uma pessoa para Kevin Bacon?
+
+```
+MATCH shortest_path=shortestPath((a1:Person)-[*]-(kb:Person {name: "Kevin Bacon"}))
+WHERE NOT a1.name="Kevin Bacon"
+WITH length(shortest_path) as len_path
+RETURN len_path
+ORDER BY len_path DESC
+LIMIT 1
+╒══════════╕
+│"len_path"│
+╞══════════╡
+│6         │
+└──────────┘
+```
+
+14
+: Qual a maior distância entre duas pessoas?
+
+```
+MATCH shortest_path=shortestPath((a1:Person)-[*]-(a2:Person))
+WHERE a1 <> a2
+WITH length(shortest_path) as len_path
+RETURN len_path
+ORDER BY len_path DESC
+LIMIT 1
+╒══════════╕
+│"len_path"│
+╞══════════╡
+│10        │
+└──────────┘
+```
+
+15
+: Qual é a distribuição de distâncias em pares (isto é, para a distância 1, 2, 3, ..., quantos pares de pessoas têm essa distância um do outro)?
+
+```
+MATCH path=shortestPath((a1:Person)-[*]-(a2:Person))
+WHERE a1<>a2
+WITH length(path) as len_path, path
+RETURN count(path) as pares_pessoas, len_path
+╒═══════════════╤══════════╕
+│"pares_pessoas"│"len_path"│
+╞═══════════════╪══════════╡
+│1248           │2         │
+├───────────────┼──────────┤
+│5574           │4         │
+├───────────────┼──────────┤
+│7766           │6         │
+├───────────────┼──────────┤
+│2122           │8         │
+├───────────────┼──────────┤
+│66             │3         │
+├───────────────┼──────────┤
+│172            │5         │
+├───────────────┼──────────┤
+│70             │7         │
+├───────────────┼──────────┤
+│24             │10        │
+├───────────────┼──────────┤
+│8              │9         │
+├───────────────┼──────────┤
+│6              │1         │
+└───────────────┴──────────┘
 
 ```
 
-4
-: 
+16
+: Indique as 10 pessoas com menor distância média em que o caminho entre elas são relações do tipo ACTED_IN.
 
 ```
-FALTA FAZER
-
-```
-
-4
-: 
-
-```
-FALTA FAZER
-
-```
-
-4
-: 
-
-```
-FALTA FAZER
-
-```
-
-4
-: 
-
-```
-FALTA FAZER
-
-```
-
-4
-: 
-
-```
-FALTA FAZER
-
-```
-
-4
-: 
-
-```
-FALTA FAZER
-
-```
-
-4
-: 
-
-```
-FALTA FAZER
-
-```
-
-4
-: 
-
-```
-FALTA FAZER
-
+MATCH path=shortestPath((a1:Person)-[:ACTED_IN*]-(a2:Person))
+WHERE a1<>a2
+return a1.name, avg(length(path)) as avg
+order by avg
+limit 10
+╒═════════════════╤══════════════════╕
+│"a1.name"        │"avg"             │
+╞═════════════════╪══════════════════╡
+│"Sun-kyun Lee"   │2.0               │
+├─────────────────┼──────────────────┤
+│"Robert De Niro" │2.0               │
+├─────────────────┼──────────────────┤
+│"Zazie Beetz"    │2.0               │
+├─────────────────┼──────────────────┤
+│"Joaquin Phoenix"│2.0               │
+├─────────────────┼──────────────────┤
+│"Woo-sik Choi"   │2.0               │
+├─────────────────┼──────────────────┤
+│"Yeo-jeong Jo"   │2.0               │
+├─────────────────┼──────────────────┤
+│"So-dam Park"    │2.0               │
+├─────────────────┼──────────────────┤
+│"Kang-ho Song"   │2.0               │
+├─────────────────┼──────────────────┤
+│"Tom Hanks"      │3.7821782178217833│
+├─────────────────┼──────────────────┤
+│"Kevin Bacon"    │4.376237623762377 │
+└─────────────────┴──────────────────┘
 ```
